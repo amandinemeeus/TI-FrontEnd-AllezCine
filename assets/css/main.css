@@ -1,0 +1,262 @@
+*{margin:0 ; padding:0}
+
+html, body{
+  font-size: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	background:#ffffff;
+}
+
+/*LINKS*/
+.link{
+  text-decoration: none;
+  color: orange;
+}
+body a:hover{
+	text-decoration:none;
+}
+
+/*ALIGNEMENTS*/
+.align-left{
+  text-align: left;
+}
+.align-right{
+  text-align: right;
+}
+.align-center{
+  text-align: center;
+}
+.centered{
+  display: block;
+  position: relative;
+  width: 100%; height: auto;
+  margin: 0 auto;
+}
+
+/*HEADER --> MERCI A DANIEL DE VOS*/
+.main-header {
+    padding: 16px 0;
+    border-top: 3px solid #FF8D1B;
+}
+.logo{
+	float:left;
+}
+.logo a{
+	display:inline-block;
+	text-decoration:none;
+}
+.logo-img{
+    margin-top: -25px;
+}
+.logo a h1{
+	font-size: 25px;
+    color: #212121;
+    text-transform: uppercase;
+    padding-right: 0px;
+    font-weight: 900;
+	padding-bottom: 11px;
+    padding-top: 10px;
+}
+.logo a h1 span{
+	color: #FF8D1B;
+    font-size: 11px;
+    display: block;
+    font-weight: 300;
+    letter-spacing: 5px;
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 5px;
+    line-height: 0;
+}
+.searchbar{
+	float: left;
+    width: 40%;
+    margin-left: 0px;
+	margin-top: 11px;
+}
+.searchbar input[type="text"]{
+	outline: none;
+  border: none;
+  background:#EFEFEF;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  color: #999;
+  width: 78%;
+  float: left;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+.searchbar input[type="submit"]{
+	outline: none;
+    border: none;
+    background: #212121;
+    padding: 10px 0;
+    font-size: 14px;
+    color: #fff;
+    width: 22%;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.searchbar input[type="submit"]:hover{
+	background:#FF8D1B;
+}
+.login{
+    float: right;
+  margin-top:16px;
+  width: 25%;
+}
+.login ul li a{
+	color: #fff;
+  display: inline-block;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #FF8D1B;
+  text-align: center;
+  padding: 3px 15px;
+  font-weight: bold;
+  border-radius: 2px;
+}
+.login ul li a:focus{
+	outline:none;
+}
+.login ul li a:hover{
+	background:#212121;
+}
+.login ul li{
+	display:inline-block;
+	color:#212121;
+	font-size:14px;
+}
+.login ul li i,.login ul li:first-child{
+	padding-right:5px;
+}
+
+/* NAV*/
+.movies_nav{background-color: #FF8D1B}
+
+.bg-light {
+    background-color: #FF8D1B!important;
+}
+/*BODY*/
+
+
+
+
+/*FOOTER*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*MEDIA QUERIES*/
+@media all and (min-width:370px){
+  #en .masta-name{
+    font-size: 32px;
+    margin-top: -15px;
+  }
+  #en .main-menu{
+    margin-top: 10px;
+    padding: 0;
+  }
+  #en .main-menu .menu-show{
+    display: none;
+  }
+  #en .main-menu .menu-items{
+    display: block;
+  }
+  .main-menu .menu-item{
+    display: inline-block;
+  }
+  #en .main-menu .menu-item a{
+    padding: 0 2px;
+  }
+}
+@media all and (min-width:470px){
+  #fr .masta-name{
+    font-size: 32px;
+    margin-top: -15px;
+  }
+  #fr .main-menu{
+    margin-top: 10px;
+    padding: 0;
+  }
+  #fr .main-menu .menu-show{
+    display: none;
+  }
+  #fr .main-menu .menu-items{
+    display: block;
+  }
+  #fr .main-menu .menu-item a{
+    padding: 0 2px;
+  }
+}
+@media all and (min-width:500px){
+  .masta-name{
+    font-size: 32px;
+    margin-top: -15px;
+  }
+  .main-menu{
+    margin-top: 10px;
+    padding: 0;
+  }
+  .main-menu .menu-show{
+    display: none;
+  }
+  .main-menu .menu-items{
+    display: block;
+  }
+  .main-menu .menu-item a{
+    padding: 0 2px;
+  }
+}
+@media all and (min-width:571px){
+  #en .masta-name{
+    margin-top: 0;
+  }
+  #en .main-menu{
+    margin-top: 15px;
+  }
+}
+@media all and (min-width:655px){
+  #fr .masta-name{
+    margin-top: 0;
+  }
+  #fr .main-menu{
+    margin-top: 15px;
+  }
+}
+@media all and (min-width:684px){
+  #es .masta-name{
+    margin-top: 0;
+  }
+  #es .main-menu{
+    margin-top: 15px;
+  }
+}
+@media all and (min-width:960px){
+  .centered{
+    width: 960px;
+  }
+}
