@@ -49,64 +49,78 @@
 
     <!-- Nav start-->
 
-    <!-- nav -->
-    <!-- nav -->
-    	<div class="movies_nav">
-    		<div class="container-fluid">
-                <div class="col-lg-3">
-
-                </div>
-                <div class="col-lg-6">
-
-
-                <nav class="navbar navbar-expand-lg navbar-light bg-light">
-
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <div class="movies_nav">
+    <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
-                    </button>
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Features</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Pricing</a>
+                        <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Dropdown link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Dropdown link
-</a>
-<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-<a class="dropdown-item" href="#">Action</a>
-<a class="dropdown-item" href="#">Another action</a>
-<a class="dropdown-item" href="#">Something else here</a>
-</div>
-</li>
-    </ul>
-  </div>
-  </div>
-</nav>
-<div class="col-lg-3">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">FILMS</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Adventure</a>
+                            <a class="dropdown-item" href="#">Biography</a>
+                            <a class="dropdown-item" href="#">Horror</a>
+                            <a class="dropdown-item" href="#">Comedy</a>
+                            <a class="dropdown-item" href="#">Thriller</a>
+                            <a class="dropdown-item" href="#">Romance</a></a>
+                        </div>
+                    </li>
 
-</div>
-    		</div>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SERIES</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Adventure</a>
+                            <a class="dropdown-item" href="#">Science-Fiction</a>
+                            <a class="dropdown-item" href="#">Horror</a>
+                            <a class="dropdown-item" href="#">Comedy</a>
+                            <a class="dropdown-item" href="#">Thriller</a>
+                        </div>
+                    </li>
 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">SHOP MOVIES</a>
+                    </li>
 
-    	</div>
-    <!-- //nav -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">CONTACT US</a>
+                    </li>
+                </ul>
+                </div>
+            </nav>
+    </div>
+    </div>
+
+    <!-- Réseaux sociaux start -->
+    <div class="general_social_icons">
+    	<nav class="social">
+    		<ul>
+    			<li class="w3_twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
+    			<li class="w3_facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
+    			<li class="w3_dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
+    			<li class="w3_g_plus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
+    		</ul>
+      </nav>
+    </div>
+    <!-- Réseaux sociaux end -->
 
     <!-- Nav end-->
+
+<!-- Jumbotron start -->
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-3">Fluid jumbotron</h1>
+        <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+      </div>
+    </div>
+<!-- Jumbotron end -->
 
     <!-- Main Content Start -->
 		<section class="main-content" id="main-content">
@@ -114,6 +128,10 @@
             <!-- Content Header Start -->
             <div class="content-header">
 				<div class="centered">
+
+
+
+
                 </div>
             </div>
             <!-- Content Header End -->
@@ -129,7 +147,7 @@
       		<footer class="content-footer">
       			<div class="align-center">
     			    <div class="copyrights">
-    			      © AllezCine.be 2017 - By  - <a href="" class="simple-link">Contact</a>
+    			      <!-- © AllezCine.be 2017 - By  - <a href="" class="simple-link">Contact</a> -->
     			    </div>
     			</div>
       		</footer>
