@@ -6,8 +6,6 @@ html, body{
 	background:#ffffff;
 }
 
-
-
 /*LINKS*/
 .link{
   text-decoration: none;
@@ -34,7 +32,7 @@ body a:hover{
   margin: 0 auto;
 }
 
-/*HEADER --> MERCI A DANIEL DE VOS*/
+/*HEADER*/
 
 .main-header {
     padding: 16px 0;

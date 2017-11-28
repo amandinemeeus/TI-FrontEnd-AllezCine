@@ -13,7 +13,6 @@
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
     <link rel="stylesheet" href="./assets/css/main.css"/>
-
   </head>
 
   <body id="fr">
@@ -41,8 +40,8 @@
                 				<li><a href="#" data-toggle="" data-target="">Login</a></li>
                 			</ul>
                 		</div>
-                      </div>
-                   </div>
+                    </div>
+                </div>
             </div>
         </header>
 	<!-- Main Header End -->
@@ -98,29 +97,50 @@
     </div>
     </div>
 
-    <!-- Réseaux sociaux start -->
-    <div class="general_social_icons">
-    	<nav class="social">
-    		<ul>
-    			<li class="w3_twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
-    			<li class="w3_facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
-    			<li class="w3_dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
-    			<li class="w3_g_plus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
-    		</ul>
-      </nav>
-    </div>
-    <!-- Réseaux sociaux end -->
+
 
     <!-- Nav end-->
 
 <!-- Jumbotron start -->
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
-        <h1 class="display-3">Fluid jumbotron</h1>
-        <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+        <div id="slidey" style="display:none;">
+            <ul>
+                <li><img src="assets/images/2.jpg"><p class='title'>Tarzan</p><p class='description'>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</p></li>
+                <li><img src="assets/images/3.jpg"><p class='title'>Maximum Ride</p><p class='description'>Six children, genetically cross-bred with avian DNA, take flight around the country to discover their origins. Along the way, their mysterious past is ...</p></li>
+                <li><img src="assets/images/4.jpg"><p class='title'>Independence</p><p class='description'>The fate of humanity hangs in the balance as the U.S. President and citizens decide if these aliens are to be trusted ...or feared.</p></li>
+                <li><img src="assets/images/5.jpg"><p class='title'>Central Intelligence</p><p class='description'>Bullied as a teen for being overweight, Bob Stone (Dwayne Johnson) shows up to his high school reunion looking fit and muscular. Claiming to be on a top-secret ...</p></li>
+                <li><img src="assets/images/6.jpg"><p class='title'>Ice Age</p><p class='description'>In the film's epilogue, Scrat keeps struggling to control the alien ship until it crashes on Mars, destroying all life on the planet.</p></li>
+                <li><img src="assets/images/7.jpg"><p class='title'>X - Man</p><p class='description'>In 1977, paranormal investigators Ed (Patrick Wilson) and Lorraine Warren come out of a self-imposed sabbatical to travel to Enfield, a borough in north ...</p></li>
+            </ul>
+        </div>
       </div>
     </div>
+
 <!-- Jumbotron end -->
+
+
+
+
+
+
+
+
+
+<!-- Réseaux sociaux start -->
+<div class="general_social_icons">
+    <nav class="social">
+        <ul>
+            <li class="w3_twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
+            <li class="w3_facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
+            <li class="w3_dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
+            <li class="w3_g_plus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
+        </ul>
+  </nav>
+</div>
+<!-- Réseaux sociaux end -->
+
+
 
     <!-- Main Content Start -->
 		<section class="main-content" id="main-content">
