@@ -38,7 +38,7 @@
                 				<input type="submit" value="Go">
                 			</form>
                 		</div>
-                		<div class="col-12 col-lg-3 login pl-5">
+                        <div class="col-12 col-lg-3 login pl-5">
                 			<ul id="taille">
                 				<li id="tel"><i class="fa fa-phone" aria-hidden="true"></i>(000) 123 456 789</li>
                 				<li id="element"><a href="#" data-toggle="" data-target="">Login</a></li>
@@ -165,7 +165,742 @@
 
             <!-- Content Header Start -->
             <div class="content-header">
-				<div class="centered">
+						<div class="centered">
+						<div class="container">
+
+					<!-- MOVIES -->
+					<div class="library-movie">
+					<!-- THUMBNAIL 1 -->
+						<div class="library-movie-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+											<span class="genre">Genre</span>
+										</p>
+									</div>
+								</div>
+						</div>
+					<!-- THUMBNAIL 2 -->
+						<div class="library-movie-col">
+							<div class="library-container">
+								<img src="images/gris.png" alt="Movie cover">
+								<div class="caption">
+									<h4>Movie title</h4>
+									<p>
+										<span class="year">Year</span>
+										<span class="genre">Genre</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					<!-- THUMBNAIL 3 -->
+						<div class="library-movie-col">
+							<div class="library-container">
+								<img src="images/gris.png" alt="Movie cover">
+								<div class="caption">
+									<h4>Movie title</h4>
+									<p>
+										<span class="year">Year</span>
+										<span class="genre">Genre</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					<!-- THUMBNAIL 4 -->
+						<div class="library-movie-col">
+							<div class="library-container">
+								<img src="images/gris.png" alt="Movie cover">
+								<div class="caption">
+									<h4>Movie title</h4>
+									<p>
+										<span class="year">Year</span>
+										<span class="genre">Genre</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					<!-- THUMBNAIL 5 -->
+						<div class="library-movie-col">
+							<div class="library-container">
+								<img src="images/gris.png" alt="Movie cover">
+								<div class="caption">
+									<h4>Movie title</h4>
+									<p>
+										<span class="year">Year</span>
+										<span class="genre">Genre</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<!-- FEATURED MOVIES -->
+				<div class="container-fluid">
+					<!-- TITLE -->
+					<h2>FEATURED MOVIES</h2>
+				</div>
+				<dstyleiv class="container">
+
+					<ul class="filter-genre">
+						<li class="filter-genre ACTIVE"><a href="">All</a></li><!--
+						--><li class="filter-genre"><a href="">Actions</a></li><!--
+						--><li class="filter-genre"><a href="">Policiers</a></li>
+					</ul>
+					<div>
+						<!-- FEATURED MOVIES ROW 1 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+									<div class="library-container">
+										<img src="images/gris.png" alt="Movie cover">
+										<div class="caption">
+											<h4>Movie title</h4>
+											<p>
+												<span class="year">Year</span>
+
+											</p>
+										</div>
+									</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- FEATURED MOVIES ROW 2 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="more-featured-movies" class="initially-hidden">
+						<!-- FEATURED MOVIES ROW 3 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+									<div class="library-container">
+										<img src="images/gris.png" alt="Movie cover">
+										<div class="caption">
+											<h4>Movie title</h4>
+											<p>
+												<span class="year">Year</span>
+
+											</p>
+										</div>
+									</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- FEATURED MOVIES ROW 4 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- BOUTON MORE MOVIES -->
+					<ul class="more-movies">
+						<li class="more-movies">
+							<a href="#" class="show-more" data-more="#more-featured-movies"><span>PLUS</span> DE FILMS</a>
+						</li>
+					</ul>
+				</div>
+
+				<!-- FEATURED TV SERIES -->
+				<div class="container-fluid">
+					<!-- TITLE -->
+					<h2>FEATURED SERIES TV</h2>
+				</div>
+				<div class="container">
+
+					<ul class="filter-genre">
+						<li class="filter-genre ACTIVE"><a href="">All</a></li><!--
+						--><li class="filter-genre"><a href="">Actions</a></li><!--
+						--><li class="filter-genre"><a href="">Policiers</a></li>
+					</ul>
+					<div>
+						<!-- FEATURED MOVIES ROW 1 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+									<div class="library-container">
+										<img src="images/gris.png" alt="Movie cover">
+										<div class="caption">
+											<h4>Movie title</h4>
+											<p>
+												<span class="year">Year</span>
+
+											</p>
+										</div>
+									</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- FEATURED MOVIES ROW 2 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+									<div class="library-container">
+										<img src="images/gris.png" alt="Movie cover">
+										<div class="caption">
+											<h4>Movie title</h4>
+											<p>
+												<span class="year">Year</span>
+
+											</p>
+										</div>
+									</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="more-featured-series" class="initially-hidden">
+						<!-- FEATURED MOVIES ROW 3 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+									<div class="library-container">
+										<img src="images/gris.png" alt="Movie cover">
+										<div class="caption">
+											<h4>Movie title</h4>
+											<p>
+												<span class="year">Year</span>
+
+											</p>
+										</div>
+									</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- FEATURED MOVIES ROW 4 -->
+						<div class="library-featured">
+							<!-- THUMBNAIL 1 -->
+							<div class="library-featured-col">
+									<div class="library-container">
+										<img src="images/gris.png" alt="Movie cover">
+										<div class="caption">
+											<h4>Movie title</h4>
+											<p>
+												<span class="year">Year</span>
+
+											</p>
+										</div>
+									</div>
+							</div>
+							<!-- THUMBNAIL 2 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 3 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 4 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 5 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+							<!-- THUMBNAIL 6 -->
+							<div class="library-featured-col">
+								<div class="library-container">
+									<img src="images/gris.png" alt="Movie cover">
+									<div class="caption">
+										<h4>Movie title</h4>
+										<p>
+											<span class="year">Year</span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<ul class="more-movies">
+						<li class="more-movies">
+							<a href="#" class="show-more" data-more="#more-featured-series"><span>PLUS</span> DE SERIES</a>
+						</li>
+					</ul>
+				</div>
+
+
+
+
+
+							</div>
+					</div>
 
 
 
