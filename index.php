@@ -964,7 +964,7 @@
                     		</div>
                         </div>
                         <br /><br /><div class="bar">
-                            
+
                         </div><br /><br />
                         <div class="">
                             <div class="copyrights">
@@ -976,7 +976,8 @@
                 </div>
 
 
-
+                <!-- ANCRE -->
+                <!-- <div class="bounce"><a href="#home"><i class="arrow_down"></i></a></div> -->
 
 
       		</footer>

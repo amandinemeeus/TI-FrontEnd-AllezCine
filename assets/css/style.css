@@ -462,3 +462,35 @@ li.more-movies a:hover {
     width: 960px;
   }
 }
+
+/* /////////////////////ANCRE/////////////////*/
+
+/*.bounce {position:relative;
+ 		 left:50%;
+ 		 bottom:0;
+  		 margin-top:-25px;
+  		 margin-left:-25px;
+  	   	 height:50px;
+  		 width:50px;
+ 		 -webkit-animation:bounce 1s infinite;
+		 }
+
+@-webkit-keyframes bounce {	0%       { bottom:5px; }
+  							25%, 75% { bottom:15px; }
+  							50%      { bottom:20px; }
+  							100%     {bottom:0;}
+							}
+
+.bounce {display: flex;
+		justify-content: center;
+		}
+
+i { border: solid #1cb0a1 !important;
+    border-width: 0 3px 3px 0!important;
+    display: inline-block!important;
+    padding: 10px!important;
+	}
+
+.arrow_down {transform: rotate(45deg)!important;
+    		-webkit-transform: rotate(45deg)!important;
+			}*/
