@@ -145,9 +145,10 @@ body a:hover{
 .nav-link{
     float: left;
     border-right: 1px solid #fff;
-    width: 150px;
+    width: 159px;
     text-align: center;
     color: white!important;
+    padding: 20px;
 }
 .navbar-nav {
     margin-top: -8px;
@@ -156,8 +157,10 @@ body a:hover{
 .active{background-color: black}
 .dropdown-item:hover{color: #FF8D1B!important}
 
+
+
 /*BODY*/
-/*SLIDER*/
+
 
 
 
