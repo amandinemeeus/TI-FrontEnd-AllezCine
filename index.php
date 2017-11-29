@@ -12,7 +12,11 @@
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
-    <link rel="stylesheet" href="./assets/css/main.css"/>
+    <link rel="stylesheet" href="./assets/css/style.css"/>
+    <!-- Slide Plugin -->
+    <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
+    <script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.dotdotdot.min.js"></script>
   </head>
 
   <body id="fr">
@@ -102,23 +106,37 @@
     <!-- Nav end-->
 
 <!-- Jumbotron start -->
-    <div class="jumbotron jumbotron-fluid">
-      <div class="container">
-        <div id="slidey" style="display:none;">
-            <ul>
-                <li><img src="assets/images/2.jpg"><p class='title'>Tarzan</p><p class='description'>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</p></li>
-                <li><img src="assets/images/3.jpg"><p class='title'>Maximum Ride</p><p class='description'>Six children, genetically cross-bred with avian DNA, take flight around the country to discover their origins. Along the way, their mysterious past is ...</p></li>
-                <li><img src="assets/images/4.jpg"><p class='title'>Independence</p><p class='description'>The fate of humanity hangs in the balance as the U.S. President and citizens decide if these aliens are to be trusted ...or feared.</p></li>
-                <li><img src="assets/images/5.jpg"><p class='title'>Central Intelligence</p><p class='description'>Bullied as a teen for being overweight, Bob Stone (Dwayne Johnson) shows up to his high school reunion looking fit and muscular. Claiming to be on a top-secret ...</p></li>
-                <li><img src="assets/images/6.jpg"><p class='title'>Ice Age</p><p class='description'>In the film's epilogue, Scrat keeps struggling to control the alien ship until it crashes on Mars, destroying all life on the planet.</p></li>
-                <li><img src="assets/images/7.jpg"><p class='title'>X - Man</p><p class='description'>In 1977, paranormal investigators Ed (Patrick Wilson) and Lorraine Warren come out of a self-imposed sabbatical to travel to Enfield, a borough in north ...</p></li>
-            </ul>
-        </div>
-      </div>
-    </div>
+<div class="container-fluid">
+<div class="row">
+    <div class="col-12 pl-0 pr-0">
+     <div id="slidey" style="display:none;">
+        <ul>
+            <li><img src="assets/images/2.jpg"><p class='title'>Tarzan</p><p class='description'>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</p></li>
+            <li><img src="assets/images/3.jpg"><p class='title'>Maximum Ride</p><p class='description'>Six children, genetically cross-bred with avian DNA, take flight around the country to discover their origins. Along the way, their mysterious past is ...</p></li>
+            <li><img src="assets/images/4.jpg"><p class='title'>Independence</p><p class='description'>The fate of humanity hangs in the balance as the U.S. President and citizens decide if these aliens are to be trusted ...or feared.</p></li>
+            <li><img src="assets/images/5.jpg"><p class='title'>Central Intelligence</p><p class='description'>Bullied as a teen for being overweight, Bob Stone (Dwayne Johnson) shows up to his high school reunion looking fit and muscular. Claiming to be on a top-secret ...</p></li>
+            <li><img src="assets/images/6.jpg"><p class='title'>Ice Age</p><p class='description'>In the film's epilogue, Scrat keeps struggling to control the alien ship until it crashes on Mars, destroying all life on the planet.</p></li>
+            <li><img src="assets/images/7.jpg"><p class='title'>X - Man</p><p class='description'>In 1977, paranormal investigators Ed (Patrick Wilson) and Lorraine Warren come out of a self-imposed sabbatical to travel to Enfield, a borough in north ...</p></li>
+        </ul>
+</div>
+</div>
+<script src="assets/js/jquery.slidey.js"></script>
+<script src="assets/js/jquery.dotdotdot.min.js"></script>
+<script type="text/javascript">
+  $("#slidey").slidey({
+    interval: 8000,
+    listCount: 5,
+    autoplay: false,
+    showList: true
+  });
+  $(".slidey-list-description").dotdotdot();
+</script>
+</div>
+</div>
+
+
 
 <!-- Jumbotron end -->
-
 
 
 
@@ -180,9 +198,16 @@
 
 
     <!-- Optional JavaScript -->
+    <!-- JQuery -->
+    <script src='assets\js\jquery-3.2.1.js'></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+
+
+
+
   </body>
 </html>
