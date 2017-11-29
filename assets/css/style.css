@@ -7,15 +7,16 @@ html, body{
 }
 
 /*LINKS*/
-.link{
+/*.link{
   text-decoration: none;
-  color: orange;
-}
+}*/
 body a:hover{
 	text-decoration:none;
+    color: #FF8D1B;
 }
 a{
 	text-decoration:none;
+    color: #FF8D1B;
 }
 
 /*ALIGNEMENTS*/
@@ -401,12 +402,20 @@ li.more-movies a:hover {
     background-color: black;
     color: white
 }
-/* End Contact */
 
-.content-footer{
-    height: 300px;
-    background-color: black
+.content-footer {
+    position: inherit;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background-color: black}
+
+.bar {
+    width:94%;
+    height: 1px;
+    background-color: white
 }
+
 .news {
     color: #FF8D1B;
     font-size: 25px;
@@ -444,6 +453,7 @@ li.more-movies a:hover {
     float: left;
     margin-right: 3px;
 }
+.copyrights {color: white}
 
 /*MEDIA QUERIES*/
 

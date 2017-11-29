@@ -950,9 +950,7 @@
                     <div class="container-fluid">
                         <div class="row">
                     		<div class="col-12 col-lg-6 pl-2">
-                                <p class="news">
-                                    SUBSCRIBE TO US
-                                </p>
+                                <p class="news">SUBSCRIBE TO US</p>
                                 <form class="newsletter" action="#" method="post">
                     				<input class="emailbar"type="text" name="suscribe" placeholder="Your email" required="">
                     				<input class="btn btn_newsletter" type="submit" value="SEND">
@@ -965,16 +963,20 @@
                                 <img src="assets/images/1.jpg" class="logo-img" alt="">
                     		</div>
                         </div>
-                        <hr />
+                        <br /><br /><div class="bar">
+                            
+                        </div><br /><br />
+                        <div class="">
+                            <div class="copyrights">
+                              © AllezCine.be 2017 - By BECODE - <a href="" class="simple-link">Contact</a>
+                            </div>
+                            <br /><br /><br /><br /><br />
+                        </div>
                     </div>
                 </div>
-                </div>
 
-                <!-- <div class="align-center">
-                    <div class="copyrights">
-    			      © AllezCine.be 2017 - By BECODE - <a href="" class="simple-link">Contact</a>
-    			    </div>
-    			</div> -->
+
+
 
 
       		</footer>
