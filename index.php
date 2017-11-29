@@ -29,7 +29,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-12 col-lg-3 logo">
-                			<a href="index.html"><h1>LOGO<span>Movies</span></h1></a>
+                			<a href="index.html"><h1 class="grand">LOGO<span class="petit">Movies</span></h1></a>
                             <img src="assets/images/1.jpg" class="logo-img" alt="">
                 		</div>
                 		<div class="col-12 col-lg-6 searchbar pl-2">
@@ -111,10 +111,10 @@
     <div class="col-12 pl-0 pr-0">
      <div id="slidey" style="display:none;">
         <ul>
-            <li><img src="assets/images/2.jpg"><p class='title'>Tarzan</p><p class='description'>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</p></li>
-            <li><img src="assets/images/3.jpg"><p class='title'>Maximum Ride</p><p class='description'>Six children, genetically cross-bred with avian DNA, take flight around the country to discover their origins. Along the way, their mysterious past is ...</p></li>
-            <li><img src="assets/images/4.jpg"><p class='title'>Independence</p><p class='description'>The fate of humanity hangs in the balance as the U.S. President and citizens decide if these aliens are to be trusted ...or feared.</p></li>
-            <li><img src="assets/images/5.jpg"><p class='title'>Central Intelligence</p><p class='description'>Bullied as a teen for being overweight, Bob Stone (Dwayne Johnson) shows up to his high school reunion looking fit and muscular. Claiming to be on a top-secret ...</p></li>
+            <li><img src="assets/images/2.jpg"><p class='title'>Maximum Ride</p><p class='description'>Six children, genetically cross-bred with avian DNA, take flight around the country to discover their origins. Along the way, their mysterious past is ...</p></li>
+            <li><img src="assets/images/5.jpg"><p class='title'>Tarzan</p><p class='description'>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</p></li>
+            <li><img src="assets/images/3.jpg"><p class='title'>Independence</p><p class='description'>The fate of humanity hangs in the balance as the U.S. President and citizens decide if these aliens are to be trusted ...or feared.</p></li>
+            <li><img src="assets/images/4.jpg"><p class='title'>Central Intelligence</p><p class='description'>Bullied as a teen for being overweight, Bob Stone (Dwayne Johnson) shows up to his high school reunion looking fit and muscular. Claiming to be on a top-secret ...</p></li>
             <li><img src="assets/images/6.jpg"><p class='title'>Ice Age</p><p class='description'>In the film's epilogue, Scrat keeps struggling to control the alien ship until it crashes on Mars, destroying all life on the planet.</p></li>
             <li><img src="assets/images/7.jpg"><p class='title'>X - Man</p><p class='description'>In 1977, paranormal investigators Ed (Patrick Wilson) and Lorraine Warren come out of a self-imposed sabbatical to travel to Enfield, a borough in north ...</p></li>
         </ul>
@@ -909,19 +909,51 @@
             <!-- Content Content-inner Start -->
 			<div class="centered content-inner">
 				<div class="content" id="contact">
+
+
+                    <section id="contact_us">
+                    	<div class="container">
+
+                    		<form id="contact" action="index.php">
+                    			<div id="form" class="row">
+                    				<div class="col-md-6">
+                    					<input type="text" placeholder="FIRST NAME">
+                    				</div>
+                    				<div class="col-md-6">
+                    					<input type="text" placeholder="LAST NAME">
+                    				</div>
+                    				<div class="col-md-6">
+                    					<input type="email" placeholder="EMAIL">
+                    				</div>
+                    				<div class="col-md-6">
+                    					<input type="text" placeholder="SUBJECT">
+                    				</div>
+                    				<div class="col-md-12">
+                    					<textarea id="textarea" form="contact_us" placeholder="YOUR MESSAGE"></textarea>
+                    					<input type="submit" id="send" class="btn btn-send" name="send" value="SEND MESSAGE">
+                    				</div>
+                    			</div>
+                    		</form>
+                    	</div>
+                    </section>
+
+
                 </div>
             </div>
 			<!-- Content Content-inner End -->
+
+<br /><br />
 
 			<!-- Content Footer Start -->
       		<footer class="content-footer">
       			<div class="align-center">
     			    <div class="copyrights">
-    			      <!-- © AllezCine.be 2017 - By  - <a href="" class="simple-link">Contact</a> -->
+    			      © AllezCine.be 2017 - By BECODE - <a href="" class="simple-link">Contact</a>
     			    </div>
     			</div>
       		</footer>
       		<!-- Content Footer End -->
+            <br />
     </section>
 		<!-- Main Content End -->
 
