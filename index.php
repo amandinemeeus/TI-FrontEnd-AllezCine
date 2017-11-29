@@ -12,7 +12,7 @@
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
-    <link rel="stylesheet" href="./assets/css/style.css"/>
+    <link rel="stylesheet" href="./assets/css/styles.css"/>
     <link href="./assets/css/age-verification.css" rel="stylesheet">
     <!-- Slide Plugin -->
     <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
@@ -67,25 +67,25 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">FILMS</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Adventure</a>
-                            <a class="dropdown-item" href="#">Biography</a>
-                            <a class="dropdown-item" href="#">Horror</a>
-                            <a class="dropdown-item" href="#">Comedy</a>
-                            <a class="dropdown-item" href="#">Thriller</a>
-                            <a class="dropdown-item" href="#">Romance</a></a>
+                            <a class="dropdown-item" href="#ancre_movies">Action</a>
+                            <a class="dropdown-item" href="#ancre_movies">Adventure</a>
+                            <a class="dropdown-item" href="#ancre_movies">Biography</a>
+                            <a class="dropdown-item" href="#ancre_movies">Horror</a>
+                            <a class="dropdown-item" href="#ancre_movies">Comedy</a>
+                            <a class="dropdown-item" href="#ancre_movies">Thriller</a>
+                            <a class="dropdown-item" href="#ancre_movies">Romance</a></a>
                         </div>
                     </li>
 
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SERIES</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Adventure</a>
-                            <a class="dropdown-item" href="#">Science-Fiction</a>
-                            <a class="dropdown-item" href="#">Horror</a>
-                            <a class="dropdown-item" href="#">Comedy</a>
-                            <a class="dropdown-item" href="#">Thriller</a>
+                            <a class="dropdown-item" href="#ancre_series">Action</a>
+                            <a class="dropdown-item" href="#ancre_series">Adventure</a>
+                            <a class="dropdown-item" href="#ancre_series">Science-Fiction</a>
+                            <a class="dropdown-item" href="#ancre_series">Horror</a>
+                            <a class="dropdown-item" href="#ancre_series">Comedy</a>
+                            <a class="dropdown-item" href="#ancre_series">Thriller</a>
                         </div>
                     </li>
 
@@ -94,7 +94,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">CONTACT US</a>
+                        <a class="nav-link" href="#ancre_contact">CONTACT US</a>
                     </li>
                 </ul>
                 </div>
@@ -136,13 +136,6 @@
 </div>
 <!-- Slider end -->
 
-
-
-
-
-
-
-
 <!-- Réseaux sociaux start -->
 <div class="media">
     <nav class="networks">
@@ -155,8 +148,6 @@
   </nav>
 </div>
 <!-- Réseaux sociaux end -->
-
-
 
     <!-- Main Content Start -->
 		<section class="main-content" id="main-content">
@@ -238,9 +229,9 @@
 
 
 				<!-- FEATURED MOVIES -->
-				<div class="container-fluid">
+				<div id="ancre_movies" class="container-fluid">
 					<!-- TITLE -->
-					<h2>FEATURED MOVIES</h2>
+					<h2 class="title_ancre">MOVIES</h2>
 				</div>
 				<div class="container">
 
@@ -567,9 +558,9 @@
 				</div>
 
 				<!-- FEATURED TV SERIES -->
-				<div class="container-fluid">
+				<div id="ancre_series" class="container-fluid">
 					<!-- TITLE -->
-					<h2>FEATURED SERIES TV</h2>
+					<h2 class="title_ancre">SERIES</h2>
 				</div>
 				<div class="container">
 
@@ -894,13 +885,8 @@
 				</div>
 
 
-
-
-
 							</div>
 					</div>
-
-
 
 
                 </div>
@@ -908,13 +894,17 @@
             <!-- Content Header End -->
 
             <!-- Content Content-inner Start -->
-			<div class="centered content-inner">
-				<div class="content" id="contact">
 
+
+
+
+			<div id="ancre_contact" class="centered content-inner">
+				<div class="content" id="contact">
 
                     <section id="contact_us">
                     	<div class="container">
-
+                            <!-- TITLE -->
+                            <h2 class="title_ancre">CONTACT US</h2>
                     		<form id="contact" action="index.php">
                     			<div id="form" class="row">
                     				<div class="col-md-6">
@@ -937,7 +927,6 @@
                     		</form>
                     	</div>
                     </section>
-
 
                 </div>
             </div>

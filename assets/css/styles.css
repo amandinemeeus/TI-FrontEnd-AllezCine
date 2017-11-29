@@ -7,12 +7,16 @@ html, body{
 }
 
 /*LINKS*/
-.link{
+/*.link{
   text-decoration: none;
-  color: orange;
-}
+}*/
 body a:hover{
 	text-decoration:none;
+    color: #FF8D1B;
+}
+a{
+	text-decoration:none;
+    color: #FF8D1B;
 }
 
 /*ALIGNEMENTS*/
@@ -33,8 +37,6 @@ body a:hover{
 }
 
 /*HEADER*/
-
-
 .grand {font-size: 35px!important}
 .petit{font-size: 15px!important}
 .main-header {
@@ -46,7 +48,6 @@ body a:hover{
 }
 .logo a{
 	display:inline-block;
-	text-decoration:none;
 }
 .logo-img{
     margin-top: -25px;
@@ -106,8 +107,8 @@ body a:hover{
 }
 .login{
     float: right;
-  margin-top:16px;
-  width: 25%;
+    margin-top:16px;
+    width: 25%;
 }
 #taille {
     width: 300px;
@@ -118,17 +119,7 @@ body a:hover{
 }
 #tel{font-size: 17px}
 .login ul li a{
-  /*color: #fff;
-  display: inline-block;
-  text-transform: uppercase;
-  text-decoration: none;
-  background: #FF8D1B;
-  text-align: center;
-  padding: 3px 15px;
-  font-weight: bold;
-  border-radius: 2px;
-  margin-top: 10px!important*/
-  color: #fff;
+    color: #fff;
     display: inline-block;
     text-transform: uppercase;
     text-decoration: none;
@@ -407,17 +398,62 @@ li.more-movies a:hover {
 	font-size: 16px;
 	padding: 5px 10px;
 }
-.btn-send {
+.btn_contact{
     background-color: black;
     color: white
 }
-/* End Contact */
 
+.content-footer {
+    position: inherit;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background-color: black}
 
+.bar {
+    width:94%;
+    height: 1px;
+    background-color: white
+}
 
+.news {
+    color: #FF8D1B;
+    font-size: 25px;
+    margin-top: 50px
+}
+.my {
+    margin-top: 80px;
+}
+.newsletter {
+    margin-top: 30px;
+    border: 1px solid #fff;
+    padding: 10px;
+    width: 478px;
+}
+.btn_newsletter {
+    color: #fff;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #FF8D1B;
+    text-align: center;
+    padding: 7px 30px;
+    font-weight: bold;
+    border-radius: 0px;
 
-
-
+}
+.emailbar{outline: none;
+    border: none;
+    background: #EFEFEF;
+    padding: 11px;
+    text-align: center;
+    font-size: 14px;
+    color: #999;
+    width: 78%;
+    float: left;
+    margin-right: 3px;
+}
+.copyrights {color: white}
 
 /*MEDIA QUERIES*/
 
@@ -425,4 +461,45 @@ li.more-movies a:hover {
   .centered{
     width: 960px;
   }
+}
+
+/* /////////////////////ANCRE/////////////////*/
+
+/*.bounce {position:relative;
+ 		 left:50%;
+ 		 bottom:0;
+  		 margin-top:-25px;
+  		 margin-left:-25px;
+  	   	 height:50px;
+  		 width:50px;
+ 		 -webkit-animation:bounce 1s infinite;
+		 }
+
+@-webkit-keyframes bounce {	0%       { bottom:5px; }
+  							25%, 75% { bottom:15px; }
+  							50%      { bottom:20px; }
+  							100%     {bottom:0;}
+							}
+
+.bounce {display: flex;
+		justify-content: center;
+		}
+
+i { border: solid #1cb0a1 !important;
+    border-width: 0 3px 3px 0!important;
+    display: inline-block!important;
+    padding: 10px!important;
+	}
+
+.arrow_down {transform: rotate(45deg)!important;
+    		-webkit-transform: rotate(45deg)!important;
+			}*/
+
+.title_ancre {
+    font-size: 25px;
+    margin-left: -50px;
+    border-left: 3px solid #FF8D1B;
+    padding-left: 10px;
+    margin-top: 70px;
+    margin-bottom: 20px;
 }
