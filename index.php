@@ -105,7 +105,7 @@
 
     <!-- Nav end-->
 
-<!-- Jumbotron start -->
+<!-- Slider start -->
 <div class="container-fluid">
 <div class="row">
     <div class="col-12 pl-0 pr-0">
@@ -133,10 +133,7 @@
 </script>
 </div>
 </div>
-
-
-
-<!-- Jumbotron end -->
+<!-- Slider end -->
 
 
 
@@ -146,13 +143,13 @@
 
 
 <!-- Réseaux sociaux start -->
-<div class="general_social_icons">
-    <nav class="social">
+<div class="media">
+    <nav class="networks">
         <ul>
-            <li class="w3_twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
-            <li class="w3_facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
-            <li class="w3_dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
-            <li class="w3_g_plus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
+            <li class="twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
+            <li class="facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
+            <li class="dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
+            <li class="gplus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
         </ul>
   </nav>
 </div>
@@ -244,7 +241,7 @@
 					<!-- TITLE -->
 					<h2>FEATURED MOVIES</h2>
 				</div>
-				<dstyleiv class="container">
+				<div class="container">
 
 					<ul class="filter-genre">
 						<li class="filter-genre ACTIVE"><a href="">All</a></li><!--
