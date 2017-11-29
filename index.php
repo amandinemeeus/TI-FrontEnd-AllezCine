@@ -39,9 +39,9 @@
                 			</form>
                 		</div>
                 		<div class="col-12 col-lg-3 login pl-5">
-                			<ul>
-                				<li><i class="fa fa-phone" aria-hidden="true"></i> (000) 123 456 789</li>
-                				<li><a href="#" data-toggle="" data-target="">Login</a></li>
+                			<ul id="taille">
+                				<li id="tel"><i class="fa fa-phone" aria-hidden="true"></i>(000) 123 456 789</li>
+                				<li id="element"><a href="#" data-toggle="" data-target="">Login</a></li>
                 			</ul>
                 		</div>
                     </div>

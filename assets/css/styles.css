@@ -106,8 +106,16 @@ body a:hover{
   margin-top:16px;
   width: 25%;
 }
+#taille {
+    width: 300px;
+    margin-left: 25px;
+}
+#element{
+    margin-left: 25px;
+}
+#tel{font-size: 17px}
 .login ul li a{
-  color: #fff;
+  /*color: #fff;
   display: inline-block;
   text-transform: uppercase;
   text-decoration: none;
@@ -116,7 +124,15 @@ body a:hover{
   padding: 3px 15px;
   font-weight: bold;
   border-radius: 2px;
-  margin-top: 10px!important
+  margin-top: 10px!important*/
+  color: #fff;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #FF8D1B;
+    text-align: center;
+    padding: 10px 30px;
+    font-weight: bold;
 }
 .login ul li a:focus{
 	outline:none;
