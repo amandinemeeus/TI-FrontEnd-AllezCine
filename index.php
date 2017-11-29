@@ -12,7 +12,7 @@
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
-    <link rel="stylesheet" href="./assets/css/styles.css"/>
+    <link rel="stylesheet" href="./assets/css/style.css"/>
     <!-- Slide Plugin -->
     <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
     <script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
@@ -170,7 +170,7 @@
 					<!-- THUMBNAIL 1 -->
 						<div class="library-movie-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -183,7 +183,7 @@
 					<!-- THUMBNAIL 2 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="images/gris.png" alt="Movie cover">
+								<img src="assets/images/c1.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -196,7 +196,7 @@
 					<!-- THUMBNAIL 3 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="images/gris.png" alt="Movie cover">
+								<img src="assets/images/c1.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -209,7 +209,7 @@
 					<!-- THUMBNAIL 4 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="images/gris.png" alt="Movie cover">
+								<img src="assets/images/c1.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -222,7 +222,7 @@
 					<!-- THUMBNAIL 5 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="images/gris.png" alt="Movie cover">
+								<img src="assets/images/c1.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -254,7 +254,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="images/gris.png" alt="Movie cover">
+										<img src="assets/images/c1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -267,7 +267,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -279,7 +279,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -291,7 +291,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -303,7 +303,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -315,7 +315,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -330,7 +330,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -343,7 +343,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -355,7 +355,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -367,7 +367,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -379,7 +379,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -391,7 +391,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -408,7 +408,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="images/gris.png" alt="Movie cover">
+										<img src="assets/images/c1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -421,7 +421,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -433,7 +433,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -445,7 +445,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -457,7 +457,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -469,7 +469,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -484,7 +484,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -497,7 +497,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -509,7 +509,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -521,7 +521,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -533,7 +533,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -545,7 +545,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -583,7 +583,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="images/gris.png" alt="Movie cover">
+										<img src="assets/images/c1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -596,7 +596,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -608,7 +608,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -620,7 +620,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -632,7 +632,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -644,7 +644,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -659,7 +659,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="images/gris.png" alt="Movie cover">
+										<img src="assets/images/c1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -672,7 +672,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -684,7 +684,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -696,7 +696,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -708,7 +708,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -720,7 +720,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -737,7 +737,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="images/gris.png" alt="Movie cover">
+										<img src="assets/images/c1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -750,7 +750,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -762,7 +762,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -774,7 +774,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -786,7 +786,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -798,7 +798,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -813,7 +813,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="images/gris.png" alt="Movie cover">
+										<img src="assets/images/c1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -826,7 +826,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -838,7 +838,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -850,7 +850,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -862,7 +862,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -874,7 +874,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="images/gris.png" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -930,7 +930,7 @@
                     				</div>
                     				<div class="col-md-12">
                     					<textarea id="textarea" form="contact_us" placeholder="YOUR MESSAGE"></textarea>
-                    					<input type="submit" id="send" class="btn btn-send" name="send" value="SEND MESSAGE">
+                    					<input type="submit" id="send" class="btn btn_contact" name="send" value="SEND MESSAGE">
                     				</div>
                     			</div>
                     		</form>
@@ -946,14 +946,40 @@
 
 			<!-- Content Footer Start -->
       		<footer class="content-footer">
-      			<div class="align-center">
-    			    <div class="copyrights">
+                <div class="centered">
+                    <div class="container-fluid">
+                        <div class="row">
+                    		<div class="col-12 col-lg-6 pl-2">
+                                <p class="news">
+                                    SUBSCRIBE TO US
+                                </p>
+                                <form class="newsletter" action="#" method="post">
+                    				<input class="emailbar"type="text" name="suscribe" placeholder="Your email" required="">
+                    				<input class="btn btn_newsletter" type="submit" value="SEND">
+                    			</form>
+                    		</div>
+                            <div class="col-12 col-lg-3 pl-5">
+                    		</div>
+                            <div class="col-12 col-lg-3 logo my">
+                    			<a href="index.html"><h1 class="grand">LOGO<span class="petit">Movies</span></h1></a>
+                                <img src="assets/images/1.jpg" class="logo-img" alt="">
+                    		</div>
+                        </div>
+                        <hr />
+                    </div>
+                </div>
+                </div>
+
+                <!-- <div class="align-center">
+                    <div class="copyrights">
     			      © AllezCine.be 2017 - By BECODE - <a href="" class="simple-link">Contact</a>
     			    </div>
-    			</div>
+    			</div> -->
+
+
       		</footer>
       		<!-- Content Footer End -->
-            <br />
+
     </section>
 		<!-- Main Content End -->
 
@@ -961,17 +987,14 @@
 	<!-- Main End -->
 
 
+
     <!-- Optional JavaScript -->
     <!-- JQuery -->
-    <script src='assets\js\jquery-3.2.1.js'></script>
+    <script src='assets\js\jquery-2.1.4.min.js'></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
-
-
-
-
 
   </body>
 </html>

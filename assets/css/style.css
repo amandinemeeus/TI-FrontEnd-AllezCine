@@ -14,6 +14,9 @@ html, body{
 body a:hover{
 	text-decoration:none;
 }
+a{
+	text-decoration:none;
+}
 
 /*ALIGNEMENTS*/
 .align-left{
@@ -33,8 +36,6 @@ body a:hover{
 }
 
 /*HEADER*/
-
-
 .grand {font-size: 35px!important}
 .petit{font-size: 15px!important}
 .main-header {
@@ -46,7 +47,6 @@ body a:hover{
 }
 .logo a{
 	display:inline-block;
-	text-decoration:none;
 }
 .logo-img{
     margin-top: -25px;
@@ -106,8 +106,8 @@ body a:hover{
 }
 .login{
     float: right;
-  margin-top:16px;
-  width: 25%;
+    margin-top:16px;
+    width: 25%;
 }
 #taille {
     width: 300px;
@@ -118,17 +118,7 @@ body a:hover{
 }
 #tel{font-size: 17px}
 .login ul li a{
-  /*color: #fff;
-  display: inline-block;
-  text-transform: uppercase;
-  text-decoration: none;
-  background: #FF8D1B;
-  text-align: center;
-  padding: 3px 15px;
-  font-weight: bold;
-  border-radius: 2px;
-  margin-top: 10px!important*/
-  color: #fff;
+    color: #fff;
     display: inline-block;
     text-transform: uppercase;
     text-decoration: none;
@@ -407,17 +397,53 @@ li.more-movies a:hover {
 	font-size: 16px;
 	padding: 5px 10px;
 }
-.btn-send {
+.btn_contact{
     background-color: black;
     color: white
 }
 /* End Contact */
 
+.content-footer{
+    height: 300px;
+    background-color: black
+}
+.news {
+    color: #FF8D1B;
+    font-size: 25px;
+    margin-top: 50px
+}
+.my {
+    margin-top: 80px;
+}
+.newsletter {
+    margin-top: 30px;
+    border: 1px solid #fff;
+    padding: 10px;
+    width: 478px;
+}
+.btn_newsletter {
+    color: #fff;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #FF8D1B;
+    text-align: center;
+    padding: 7px 30px;
+    font-weight: bold;
+    border-radius: 0px;
 
-
-
-
-
+}
+.emailbar{outline: none;
+    border: none;
+    background: #EFEFEF;
+    padding: 11px;
+    text-align: center;
+    font-size: 14px;
+    color: #999;
+    width: 78%;
+    float: left;
+    margin-right: 3px;
+}
 
 /*MEDIA QUERIES*/
 
