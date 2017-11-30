@@ -5,14 +5,15 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <!-- Bootstrap CSS -->
+ <link rel="icon" type="image/png" href="./assets/images/1.jpg" />
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <!-- Fonts -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
-    <link rel="stylesheet" href="./assets/css/style.css"/>
+    <link rel="stylesheet" href="./assets/css/styless.css"/>
     <link href="./assets/css/age-verification.css" rel="stylesheet">
     <!-- Slide Plugin -->
     <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
@@ -43,14 +44,41 @@
                         <div class="col-12 col-lg-3 login pl-5">
                 			<ul id="taille">
                 				<li id="tel"><i class="fa fa-phone" aria-hidden="true"></i>(000) 123 456 789</li>
-                				<li id="element"><a href="#" data-toggle="" data-target="">Login</a></li>
-                			</ul>
-                		</div>
-                    </div>
-                </div>
-            </div>
-        </header>
-	<!-- Main Header End -->
+                                <li id="element"><button onclick="document.getElementById('id01').style.display='block'">Login</button></a></li>
+                            </ul>
+                            <!-- Button to open the modal login form -->
+                            <!-- The Modal -->
+                            <div id="id01" class="modal">
+                                <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+
+                                <!-- Modal Content -->
+                                <form class="modal-content animate" action="/action_page.php">
+                                    <div class="imgcontainer">
+                                        <img src="assets/images/woman.svg" alt="Avatar" class="avatar">
+                                    </div>
+
+                                    <div class="container">
+                                        <label><b>Username</b></label>
+                                        <input id="uname" type="text" placeholder="Enter Username" name="uname" required>
+                                        <label><b>Password</b></label>
+                                        <input id="psw" type="password" placeholder="Enter Password" name="psw" required>
+                                        <button type="submit">Login</button>
+                                        <button type="submit">Create account</button>
+                                        <input type="checkbox" checked="checked"> Remember me
+                                    </div>
+
+                                    <div class="container" style="background-color:#f1f1f1">
+                                        <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+                                        <span class="psw">Forgot <a href="#">password?</a></span>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+<!-- Main Header End -->
 
     <!-- Nav start-->
 
@@ -91,7 +119,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">SHOP MOVIES</a>
+                        <a class="nav-link" href="#ancre_shop">SHOP MOVIES</a>
                     </li>
 
                     <li class="nav-item">
@@ -581,7 +609,6 @@
 											<h4>Movie title</h4>
 											<p>
 												<span class="year">Year</span>
-
 											</p>
 										</div>
 									</div>
@@ -657,7 +684,6 @@
 											<h4>Movie title</h4>
 											<p>
 												<span class="year">Year</span>
-
 											</p>
 										</div>
 									</div>
@@ -735,7 +761,6 @@
 											<h4>Movie title</h4>
 											<p>
 												<span class="year">Year</span>
-
 											</p>
 										</div>
 									</div>
@@ -811,7 +836,6 @@
 											<h4>Movie title</h4>
 											<p>
 												<span class="year">Year</span>
-
 											</p>
 										</div>
 									</div>
@@ -886,19 +910,28 @@
 				</div>
 
 
-							</div>
-					</div>
-
-
-                </div>
             </div>
+        	</div>
             <!-- Content Header End -->
 
+
+                    <!-- Content Content-inner Start -->
+                    <div id="ancre_shop" class="centered content-inner">
+                        <div class="content" id="">
+
+                            <section id="">
+                                <div class="container">
+                                    <!-- TITLE -->
+                                    <h2 class="title_ancre">SHOP MOVIES</h2>
+
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                    <!-- Content Content-inner End -->
+
             <!-- Content Content-inner Start -->
-
-
-
-
 			<div id="ancre_contact" class="centered content-inner">
 				<div class="content" id="contact">
 
@@ -1006,6 +1039,6 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   <script src="http://cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js"></script>
-  <script src="assets/js/age-verification.js"></script>
+  <script src="assets/js/script.js"></script>
   </body>
 </html>
