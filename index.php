@@ -968,9 +968,9 @@
                                             <div class="circle"><i class="fa fa-user" aria-hidden="true"></i></div>
                                               <h2 class="bbox">Social networks</h2>
                                               <br />
-                                                <i class="fa fa-twitter" aria-hidden="true"></i><br>
-                                                <i class="fa fa-facebook" aria-hidden="true"></i><br>
-                                                <i class="fa fa-google-plus" aria-hidden="true"></i><br>
+                                                <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte">Facebook</p></div><br>
+                                                <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte">Twitter</p></div><br>
+                                                <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte">Google</p></div><br>
                                         </div>
                                     </div>
                                 </div>

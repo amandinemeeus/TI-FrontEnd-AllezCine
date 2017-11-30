@@ -510,8 +510,8 @@ span.psw {
 /*Black box*/
 .black{
     background-color: black;
-    height:205px;
-    width:205px;
+    height:255px;
+    width:218px;
 }
 .circle {
     background : #FF8D1B;
@@ -530,8 +530,75 @@ span.psw {
     }
 .bbox {
     color: white;
-    font-size: 20px;
+    font-size: 23px;
     margin-left: 20px;
+}
+
+.myfacebook{
+    background:#3b5998;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+}
+#myfacebookimage {
+    color: white;
+    padding-left: 12px;
+    padding-top: 11px;
+}
+.myfacebooktexte {
+    color: white;
+    font-size:18px;
+    background-color: #5574b2;
+    margin-left: 40px;
+    height: 40px;
+    width: 125px;
+    margin-top: -28px;
+    text-align: center;
+    padding-top: 10px;
+}
+.mytwitter{
+background:#1da1f2;
+margin-left: 20px;
+width: 40px;
+height: 40px;
+}
+#mytwitterimage {
+color: white;
+padding-left: 12px;
+padding-top: 11px;
+}
+.mytwittertexte {
+color: white;
+font-size:18px;
+background-color: #6bbfef;
+margin-left: 40px;
+height: 40px;
+width: 125px;
+margin-top: -28px;
+text-align: center;
+padding-top: 10px;
+}
+.mygoogle{
+background:#dd4b39;
+margin-left: 20px;
+width: 40px;
+height: 40px;
+}
+#mygoogleimage {
+color: white;
+padding-left: 12px;
+padding-top: 11px;
+}
+.mygoogletexte {
+color: white;
+font-size:18px;
+background-color: #ef796b;
+margin-left: 40px;
+height: 40px;
+width: 125px;
+margin-top: -28px;
+text-align: center;
+padding-top: 10px;
 }
 
 
