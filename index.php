@@ -281,7 +281,6 @@
 											<h4>Movie title</h4>
 											<p>
 												<span class="year">Year</span>
-
 											</p>
 										</div>
 									</div>
@@ -357,7 +356,6 @@
 										<h4>Movie title</h4>
 										<p>
 											<span class="year">Year</span>
-
 										</p>
 									</div>
 								</div>
@@ -435,7 +433,6 @@
 											<h4>Movie title</h4>
 											<p>
 												<span class="year">Year</span>
-
 											</p>
 										</div>
 									</div>
@@ -511,7 +508,6 @@
 										<h4>Movie title</h4>
 										<p>
 											<span class="year">Year</span>
-
 										</p>
 									</div>
 								</div>
@@ -1059,7 +1055,7 @@
          //opacity:0 étant invisible et opacity:1 visible
        };
      });
-     //essai non concluant
+     //ESSAI NON CONCLUANT AVEC CREATEELEMENT...
      //let arrow=document.createElement("img");
      //arrow.setAttribute("src","assets/images/arrow_up.png");
      //arrow.setAttribute("width","50px");
