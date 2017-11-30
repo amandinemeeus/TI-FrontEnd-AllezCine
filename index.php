@@ -12,18 +12,19 @@
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
-    <link rel="stylesheet" href="./assets/css/styles.css"/>
+    <link rel="stylesheet" href="./assets/css/style.css"/>
     <link href="./assets/css/age-verification.css" rel="stylesheet">
     <!-- Slide Plugin -->
     <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
     <script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
     <script type="text/javascript" src="assets/js/jquery.dotdotdot.min.js"></script>
+
   </head>
 
   <body id="fr">
 	<!-- Main Start -->
 	<div class="main">
-
+<a name="haut" id="haut"></a>
     <!-- Main Header Start -->
         <header class="main-header">
 			<div class="centered">
@@ -966,10 +967,6 @@
                 </div>
 
 
-                <!-- ANCRE -->
-                <!-- <div class="bounce"><a href="#home"><i class="arrow_down"></i></a></div> -->
-
-
       		</footer>
       		<!-- Content Footer End -->
 
@@ -979,6 +976,27 @@
   </div>
 	<!-- Main End -->
 
+    <!--div de la arrow -->
+     <div class="arrow"><a id="return" class="invisible" href="#haut"><img src="assets/images/arrow_up.png" width="50px" height="50px"</a></div>
+     <script>
+     document.addEventListener('DOMContentLoaded', function() { // s'assurer que la page est chargée
+       window.onscroll = function(ev) { //détecter quand la page défile
+         document.getElementById("return").className = (window.pageYOffset > 100) ? "visible" : "invisible";
+         //cibler la classe de l'élément "return"
+         //interchanger la classe selon la position dans la page,
+         //visible dès qu'elle est à plus de 100 pixels du haut
+         //opacity:0 étant invisible et opacity:1 visible
+       };
+     });
+     //essai non concluant
+     //let arrow=document.createElement("img");
+     //arrow.setAttribute("src","assets/images/arrow_up.png");
+     //arrow.setAttribute("width","50px");
+     //arrow.setAttribute("height","50px");
+     </script>
+
+     <!-- <script>
+     </script> -->
 
 
     <!-- Optional JavaScript -->

@@ -465,36 +465,6 @@ li.more-movies a:hover {
 
 /* /////////////////////ANCRE/////////////////*/
 
-/*.bounce {position:relative;
- 		 left:50%;
- 		 bottom:0;
-  		 margin-top:-25px;
-  		 margin-left:-25px;
-  	   	 height:50px;
-  		 width:50px;
- 		 -webkit-animation:bounce 1s infinite;
-		 }
-
-@-webkit-keyframes bounce {	0%       { bottom:5px; }
-  							25%, 75% { bottom:15px; }
-  							50%      { bottom:20px; }
-  							100%     {bottom:0;}
-							}
-
-.bounce {display: flex;
-		justify-content: center;
-		}
-
-i { border: solid #1cb0a1 !important;
-    border-width: 0 3px 3px 0!important;
-    display: inline-block!important;
-    padding: 10px!important;
-	}
-
-.arrow_down {transform: rotate(45deg)!important;
-    		-webkit-transform: rotate(45deg)!important;
-			}*/
-
 .title_ancre {
     font-size: 25px;
     margin-left: -50px;
@@ -502,4 +472,36 @@ i { border: solid #1cb0a1 !important;
     padding-left: 10px;
     margin-top: 70px;
     margin-bottom: 20px;
+}
+
+.arrow {
+    width: 110px;
+    height: 130px;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+a#return{
+  position:fixed;
+  right:20px;
+  z-index:99999;
+  transition:all ease-in 0.2s;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  text-decoration: none;
+}
+
+a#return:hover{
+  transition:all ease-in 0.2s;
+}
+a#return.invisible{
+  bottom:-35px;
+  opacity:0;
+  transition:all ease-in 0.5s;
+}
+
+a#return.visible{
+  bottom:20px;
+  opacity:1;
 }
