@@ -5,7 +5,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
- <link rel="icon" type="image/png" href="./assets/images/1.jpg" />
+    <!--Favicon-->
+    <link rel="icon" type="image/png" href="./assets/images/1.jpg" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <!-- Fonts -->
@@ -909,7 +910,6 @@
 					</ul>
 				</div>
 
-
             </div>
         	</div>
             <!-- Content Header End -->
@@ -939,6 +939,44 @@
                     	<div class="container">
                             <!-- TITLE -->
                             <h2 class="title_ancre">CONTACT US</h2>
+
+                            <!-- BLACK BOX -->
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <div class="mr-1 black">
+                                            <div class="circle"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                                              <h2 class="bbox">Address</h2>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 ">
+                                        <div class="mr-1 black">
+                                            <div class="circle"><i class="fa fa-phone" aria-hidden="true"></i></div>
+                                              <h2 class="bbox">Call</h2>
+                                              <p></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 ">
+                                        <div class="mr-1 black">
+                                            <div class="circle"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+                                              <h2 class="bbox">Email</h2>
+                                              <p></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 ">
+                                        <div class="mr-1 black">
+                                            <div class="circle"><i class="fa fa-user" aria-hidden="true"></i></div>
+                                              <h2 class="bbox">Social networks</h2>
+                                              <br />
+                                                <i class="fa fa-twitter" aria-hidden="true"></i><br>
+                                                <i class="fa fa-facebook" aria-hidden="true"></i><br>
+                                                <i class="fa fa-google-plus" aria-hidden="true"></i><br>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- CONTACT FORM -->
                     		<form id="contact" action="index.php">
                     			<div id="form" class="row">
                     				<div class="col-md-6">
@@ -1027,9 +1065,6 @@
      //arrow.setAttribute("width","50px");
      //arrow.setAttribute("height","50px");
      </script>
-
-     <!-- <script>
-     </script> -->
 
 
     <!-- Optional JavaScript -->

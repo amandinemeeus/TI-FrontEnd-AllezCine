@@ -506,6 +506,35 @@ span.psw {
 
 /*FOOTER*/
 
+
+/*Black box*/
+.black{
+    background-color: black;
+    height:205px;
+    width:205px;
+}
+.circle {
+    background : #FF8D1B;
+    border-radius : 50%;
+    width : 40px;
+    height : 40px;
+    text-align : center;
+    position : relative;
+    top : -20px;
+    left : 40%;
+    }
+.circle i {
+    margin-top : 10px;
+    color: white;
+    font-size: 20px
+    }
+.bbox {
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+
 /* Contact */
 
 #form {
