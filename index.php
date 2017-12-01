@@ -933,7 +933,7 @@
 
                             <div id="shop_content">
                               <div class="vid">
-                                <iframe width="480" height="315" src="https://www.youtube.com/embed/NAKtN6lT5O0" frameborder="0" allowfullscreen></iframe>
+                                <iframe width="450" height="315" src="https://www.youtube.com/embed/NAKtN6lT5O0" frameborder="0" allowfullscreen></iframe>
                               </div>
                               <div class="description">
                                       <h2 class="myabstractsupertitle">
