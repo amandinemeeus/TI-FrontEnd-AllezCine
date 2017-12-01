@@ -781,17 +781,15 @@ width: 50%;
 .library-featured-col-shop {
     width: 20%;
     margin-left: -11px;
-    margin-top: -76px;
-}
-
+    margin-top: -76px;}
 .black_button {
-        color: #fff;
-        background-color: black;
-        border-color: none!important;
-        border-radius: 0;
-        margin-top: -15px;
+    color: #fff;
+    background-color: black;
+    border-color: none!important;
+    border-radius: 0;
+    margin-top: -15px;
 }
 .my_black_button {
     margin-left: 808px;
-    margin-bottom: 20px;    
+    margin-bottom: 20px;
 }
