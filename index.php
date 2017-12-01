@@ -968,72 +968,36 @@
                                 <div class="library-featured-col-shop">
                                         <div class="library-container">
                                             <img src="assets/images/m1.jpg" alt="Movie cover">
-                                            <div class="caption">
-                                                <h4>Movie title</h4>
-                                                <p>
-                                                    <span class="year">Year</span>
-                                                </p>
-                                            </div>
                                         </div>
                                 </div>
                                 <!-- THUMBNAIL 2 -->
                                 <div class="library-featured-col-shop">
                                     <div class="library-container">
                                         <img src="assets/images/m2.jpg" alt="Movie cover">
-                                        <div class="caption">
-                                            <h4>Movie title</h4>
-                                            <p>
-                                                <span class="year">Year</span>
-                                            </p>
-                                        </div>
                                     </div>
                                 </div>
                                 <!-- THUMBNAIL 3 -->
                                 <div class="library-featured-col-shop">
                                     <div class="library-container">
                                         <img src="assets/images/m3.jpg" alt="Movie cover">
-                                        <div class="caption">
-                                            <h4>Movie title</h4>
-                                            <p>
-                                                <span class="year">Year</span>
-                                            </p>
-                                        </div>
                                     </div>
                                 </div>
                                 <!-- THUMBNAIL 4 -->
                                 <div class="library-featured-col-shop">
                                     <div class="library-container">
                                         <img src="assets/images/m4.jpg" alt="Movie cover">
-                                        <div class="caption">
-                                            <h4>Movie title</h4>
-                                            <p>
-                                                <span class="year">Year</span>
-                                            </p>
-                                        </div>
                                     </div>
                                 </div>
                                 <!-- THUMBNAIL 5 -->
                                 <div class="library-featured-col-shop">
                                     <div class="library-container">
                                         <img src="assets/images/m5.jpg" alt="Movie cover">
-                                        <div class="caption">
-                                            <h4>Movie title</h4>
-                                            <p>
-                                                <span class="year">Year</span>
-                                            </p>
-                                        </div>
                                     </div>
                                 </div>
                                 <!-- THUMBNAIL 6 -->
                                 <div class="library-featured-col-shop">
                                     <div class="library-container">
                                         <img src="assets/images/m6.jpg" alt="Movie cover">
-                                        <div class="caption">
-                                            <h4>Movie title</h4>
-                                            <p>
-                                                <span class="year">Year</span>
-                                            </p>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
