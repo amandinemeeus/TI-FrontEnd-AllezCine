@@ -738,6 +738,10 @@ a#return.visible{
   opacity:1;
 }
 
+
+
+/*SHOP MOVIES*/
+
 #shop_content {
   display: -webkit-flex;
   display: -ms-flex;
@@ -745,8 +749,9 @@ a#return.visible{
   height: 400px;
 }
 #shop_content .description{
-  width: 50%;
-  background: red;;
+  width: 500px;
+  background-color: #FF8D1B;
+  height: 315px;
 }
 
 #shop_content .vid{
@@ -760,3 +765,20 @@ width: 50%;
 .hide, .hidden{
   display: none;
 }
+
+.myabstractsupertitle{
+    margin: 35px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.abstract_description{
+    color: white;
+}
+.abstract_title{
+    font-weight: bold
+}
+.library-featured-col-shop {
+    width: 20%;
+    margin-left: -11px;
+    margin-top: -76px;

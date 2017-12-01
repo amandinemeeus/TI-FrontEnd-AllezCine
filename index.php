@@ -14,7 +14,7 @@
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
-    <link rel="stylesheet" href="./assets/css/style.css"/>
+    <link rel="stylesheet" href="./assets/css/styless.css"/>
     <link href="./assets/css/age-verification.css" rel="stylesheet">
     <!-- Slide Plugin -->
     <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
@@ -914,25 +914,136 @@
 
                     <!-- Content Content-inner Start -->
                     <div id="ancre_shop" class="centered content-inner">
-                        <div class="content" id="">
+                    <div class="content" id="">
+                    <section id="">
 
-                            <section id="">
-                                <div class="container">
-                                    <!-- TITLE -->
-                                    <h2 class="title_ancre">SHOP MOVIES</h2>
-
-                                </div>
-                            </section>
+                            <div class="container">
+                                <!-- TITLE -->
+                                <h2 class="title_ancre">SHOP MOVIES</h2>
+                            </div>
 
                             <div id="shop_content">
                               <div class="vid">
-                                <iframe src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe>
+                                <iframe width="480" height="315" src="https://www.youtube.com/embed/NAKtN6lT5O0" frameborder="0" allowfullscreen></iframe>
                               </div>
-                              <div class="description"></div>
+                              <div class="description">
+                                      <h2 class="myabstractsupertitle">
+                                      Ice Age: Continental Drift
+                                      </h2>
+
+                                      <div class="container">
+                                          <div class="row">
+                                              <div class="col-md-3">
+                                                  <p class="abstract_title">Abstract :</p>
+                                              </div>
+                                              <div class="col-md-9">
+                                                  <p class="abstract_description">In deze vierde film gaan Manny (Ray Romano), Sid (John Leguizamo) en Diego (Denis Leary) op een nieuw avontuur nadat hun continent losbreekt. Ze gebruiken een ijsberg als schip en moeten het opnemen tegen nieuwe zeemonsters en piraten terwijl ze terug proberen te komen bij hun vrienden.</p>
+                                              </div>
+                                          </div>
+                                          <br />
+                                          <div class="row">
+                                              <div class="col-md-3">
+                                                  <p class="abstract_title">Release :</p>
+                                              </div>
+                                              <div class="col-md-9">
+                                                  <p class="abstract_description">2017</p>
+                                              </div>
+                                          </div>
+                                          <br />
+                                          <div class="row">
+                                               <div class="col-md-3">
+                                                   <p class="abstract_title">Kind :</p>
+                                                </div>
+                                                <div class="col-md-9">
+                                                    <p class="abstract_description">Animation.</p>
+                                                </div>
+                                          </div>
+                                     </div>
+                                 </div>
                             </div>
 
-                        </div>
+                            <!-- SHOP MOVIES -->
+                            <div class="library-featured">
+                                <!-- THUMBNAIL 1 -->
+                                <div class="library-featured-col-shop">
+                                        <div class="library-container">
+                                            <img src="assets/images/m1.jpg" alt="Movie cover">
+                                            <div class="caption">
+                                                <h4>Movie title</h4>
+                                                <p>
+                                                    <span class="year">Year</span>
+                                                </p>
+                                            </div>
+                                        </div>
+                                </div>
+                                <!-- THUMBNAIL 2 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m2.jpg" alt="Movie cover">
+                                        <div class="caption">
+                                            <h4>Movie title</h4>
+                                            <p>
+                                                <span class="year">Year</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 3 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m3.jpg" alt="Movie cover">
+                                        <div class="caption">
+                                            <h4>Movie title</h4>
+                                            <p>
+                                                <span class="year">Year</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 4 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m4.jpg" alt="Movie cover">
+                                        <div class="caption">
+                                            <h4>Movie title</h4>
+                                            <p>
+                                                <span class="year">Year</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 5 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m5.jpg" alt="Movie cover">
+                                        <div class="caption">
+                                            <h4>Movie title</h4>
+                                            <p>
+                                                <span class="year">Year</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 6 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m6.jpg" alt="Movie cover">
+                                        <div class="caption">
+                                            <h4>Movie title</h4>
+                                            <p>
+                                                <span class="year">Year</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </section>
                     </div>
+                    </div>
+
+
+
+
                     <!-- Content Content-inner End -->
 
             <!-- Content Content-inner Start -->
