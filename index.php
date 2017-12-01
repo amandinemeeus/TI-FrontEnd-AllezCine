@@ -54,9 +54,9 @@
                                   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
 
                                   <!-- Modal Content -->
-                                  <form class="modal-content animate" action="/action_page.php">
+                                  <form class="modal-content animate"> <!-- action="/action_page.php"-->
                                       <div class="imgcontainer">
-                                          <img src="assets/images/woman.svg" alt="Avatar" class="avatar">
+                                          <img src="assets/images/1.jpg" alt="Avatar">
                                       </div>
 
                                       <div class="container">
