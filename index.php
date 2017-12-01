@@ -1058,9 +1058,9 @@
                                             <div class="circle"><i class="fa fa-user" aria-hidden="true"></i></div>
                                               <h2 class="bbox">Social networks</h2>
                                               <br />
-                                                <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte">Facebook</p></div><br>
-                                                <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte">Twitter</p></div><br>
-                                                <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte">Google</p></div><br>
+                                                <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte"><a class="linked" href="https://www.facebook.com">Facebook</a></p></div><br>
+                                                <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte"><a class="linked" href="https://twitter.com/?lang=fr">Twitter</a></p></div><br>
+                                                <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte"><a class="linked" href="https://plus.google.com/discover?hl=fr">Google</a></p></div><br>
                                         </div>
                                     </div>
                                 </div>
