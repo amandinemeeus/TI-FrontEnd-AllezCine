@@ -1070,21 +1070,21 @@
                     		<form id="contact" action="index.php">
                     			<div id="form" class="row">
                     				<div class="col-md-6">
-                    					<input type="text" placeholder="FIRST NAME">
+                    					<input id="prenom" type="text" placeholder="FIRST NAME">
                     				</div>
                     				<div class="col-md-6">
-                    					<input type="text" placeholder="LAST NAME">
+                    					<input id="nom" type="text" placeholder="LAST NAME">
                     				</div>
                     				<div class="col-md-6">
-                    					<input type="email" placeholder="EMAIL">
+                    					<input id="email" type="email" placeholder="EMAIL">
                     				</div>
                     				<div class="col-md-6">
-                    					<input type="text" placeholder="SUBJECT">
+                    					<input id="subject" type="text" placeholder="SUBJECT">
                     				</div>
                     				<div class="col-md-12">
                     					<textarea id="textarea" form="contact_us" placeholder="YOUR MESSAGE"></textarea>
-                    					<input type="submit" id="send" class="btn btn_contact" name="send" value="SEND MESSAGE">
-                    				</div>
+                    					<input onClick="afficher();" type="submit" id="send" class="btn btn_contact" name="send" value="SEND MESSAGE">
+                                    </div>
                     			</div>
                     		</form>
                     	</div>
@@ -1092,9 +1092,23 @@
 
                 </div>
             </div>
+
+            <script>//fonction pour afficher les entrées du formulaire
+            function afficher()
+                {
+                var nom = document.getElementById('nom').value;
+                var prenom = document.getElementById('prenom').value;
+                var email = document.getElementById('email').value;
+                var subject = document.getElementById('subject').value;
+                var textarea = document.getElementById('textarea').value;
+                alert(" Nom: " + nom + " \n Prénom: " + prenom + " \n Email: " + email + " \n Subject: " + subject + " \n Message: " + textarea);
+                 }
+             </script>
+
 			<!-- Content Content-inner End -->
 
-<br /><br />
+
+            <br /><br />
 
 			<!-- Content Footer Start -->
       		<footer class="content-footer">
