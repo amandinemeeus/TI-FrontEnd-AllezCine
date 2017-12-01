@@ -104,13 +104,17 @@ window.onclick = function(event) {
     }
 };
 
-var btn = document.querySelector("#showMoreSeries");
-var hide = document.querySelector(".hide");
-btn.addEventListener('click',function(){
-	hide.style.display = "block"
-})
-var btn = document.querySelector("#showMoreMovies");
-var hidden = document.querySelector(".hidden");
-btn.addEventListener('click',function(){
-	hidden.style.display = "block"
-})
+
+$(document).ready(function(){
+    $("#showMoreMovies").click(function(){
+        $("#more-featured-movies").toggle();
+				$(this).text($(this).text() == 'Plus DE FILMS' ? 'Moins DE FILMS' : 'Plus DE FILMS');
+    });
+});
+
+$(document).ready(function(){
+    $("#showMoreSeries").click(function(){
+        $("#more-featured-series").toggle();
+				$(this).text($(this).text() == 'Plus DE SERIES' ? 'Moins DE SERIES' : 'Plus DE SERIES');
+    });
+});

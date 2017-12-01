@@ -782,3 +782,16 @@ width: 50%;
     width: 20%;
     margin-left: -11px;
     margin-top: -76px;
+}
+
+.black_button {
+        color: #fff;
+        background-color: black;
+        border-color: none!important;
+        border-radius: 0;
+        margin-top: -15px;
+}
+.my_black_button {
+    margin-left: 808px;
+    margin-bottom: 20px;    
+}
