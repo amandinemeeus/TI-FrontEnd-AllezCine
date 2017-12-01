@@ -93,24 +93,3 @@ av_positionPrompt = function() {
 		modal_content.fadeIn('slow')
 	}
 };
-
-// Get the modal
-var modal = document.getElementById('id01');
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-};
-
-var btn = document.querySelector("#showMoreSeries");
-var hide = document.querySelector(".hide");
-btn.addEventListener('click',function(){
-	hide.style.display = "block"
-})
-var btn = document.querySelector("#showMoreMovies");
-var hidden = document.querySelector(".hidden");
-btn.addEventListener('click',function(){
-	hidden.style.display = "block"
-})

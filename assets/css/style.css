@@ -179,7 +179,8 @@ a{
 .library-movie{
 	width: 100%;
 	display: flex;
-	margin: 20px 0;
+	margin-top: 20px;
+  margin-left: 20px;
 	border: solid 2px #DCDCDC;
 	border-radius: 7px;
 }
@@ -194,14 +195,14 @@ a{
 	width: 20%;
 }
 .library-featured-col{
-	width: 16.66%;
+	width: 20%;
 }
 .library-container{
 	margin: 20px;
 	text-align: center;
 }
 .library-movie img, .library-featured img{
-	width:180px;
+	width:100%;
 	display: inline-block;
 }
 span.year{
@@ -735,4 +736,27 @@ a#return.invisible{
 a#return.visible{
   bottom:20px;
   opacity:1;
+}
+
+#shop_content {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  height: 400px;
+}
+#shop_content .description{
+  width: 50%;
+  background: red;;
+}
+
+#shop_content .vid{
+width: 50%;
+}
+
+#shop_content iframe{
+  width: : 100%;
+}
+
+.hide, .hidden{
+  display: none;
 }

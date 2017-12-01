@@ -14,7 +14,7 @@
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <!-- CSS -->
     <link rel="stylesheet" href="./assets/css/reset.css"/>
-    <link rel="stylesheet" href="./assets/css/styless.css"/>
+    <link rel="stylesheet" href="./assets/css/style.css"/>
     <link href="./assets/css/age-verification.css" rel="stylesheet">
     <!-- Slide Plugin -->
     <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
@@ -192,7 +192,7 @@
 					<!-- THUMBNAIL 1 -->
 						<div class="library-movie-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -205,7 +205,7 @@
 					<!-- THUMBNAIL 2 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="assets/images/c6.jpg" alt="Movie cover">
+								<img src="assets/images/c2.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -218,7 +218,7 @@
 					<!-- THUMBNAIL 3 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="assets/images/c6.jpg" alt="Movie cover">
+								<img src="assets/images/c3.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -231,7 +231,7 @@
 					<!-- THUMBNAIL 4 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="assets/images/c6.jpg" alt="Movie cover">
+								<img src="assets/images/c4.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -244,7 +244,7 @@
 					<!-- THUMBNAIL 5 -->
 						<div class="library-movie-col">
 							<div class="library-container">
-								<img src="assets/images/c6.jpg" alt="Movie cover">
+								<img src="assets/images/c5.jpg" alt="Movie cover">
 								<div class="caption">
 									<h4>Movie title</h4>
 									<p>
@@ -276,7 +276,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="assets/images/c6.jpg" alt="Movie cover">
+										<img src="assets/images/c1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -288,7 +288,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c2.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -300,7 +300,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c3.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -312,7 +312,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c4.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -324,7 +324,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c5.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -336,7 +336,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -351,7 +351,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c7.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -363,7 +363,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c8.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -375,7 +375,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c9.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -387,7 +387,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c10.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -399,7 +399,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c11.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -411,7 +411,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/c12.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -422,13 +422,13 @@
 							</div>
 						</div>
 					</div>
-					<div id="more-featured-movies" class="initially-hidden">
+					<div id="more-featured-movies" class="hidden">
 						<!-- FEATURED MOVIES ROW 3 -->
 						<div class="library-featured">
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="assets/images/c6.jpg" alt="Movie cover">
+										<img src="assets/images/h1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -440,7 +440,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h2.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -452,7 +452,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h3.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -464,7 +464,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h4.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -476,7 +476,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h5.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -488,7 +488,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h6.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -503,7 +503,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n1.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -515,7 +515,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n2.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -527,7 +527,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n3.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -539,7 +539,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n4.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -551,7 +551,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n5.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -563,7 +563,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n6.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -578,7 +578,7 @@
 					<!-- BOUTON MORE MOVIES -->
 					<ul class="more-movies">
 						<li class="more-movies">
-							<a href="#" class="show-more" data-more="#more-featured-movies"><span>PLUS</span> DE FILMS</a>
+							<a class="show-more" id="showMoreMovies" data-more="#more-featured-movies"><span>PLUS</span> DE FILMS</a>
 						</li>
 					</ul>
 				</div>
@@ -601,7 +601,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="assets/images/c6.jpg" alt="Movie cover">
+										<img src="assets/images/m1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -613,7 +613,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m2.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -625,7 +625,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m3.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -637,7 +637,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m4.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -649,7 +649,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m5.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -661,7 +661,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m6.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -676,7 +676,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="assets/images/c6.jpg" alt="Movie cover">
+										<img src="assets/images/m7.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -688,7 +688,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m8.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -700,7 +700,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m9.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -712,7 +712,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m10.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -724,7 +724,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m11.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -736,7 +736,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/m12.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -747,13 +747,14 @@
 							</div>
 						</div>
 					</div>
-					<div id="more-featured-series" class="initially-hidden">
+
+					<div id="more-featured-series" class="hide">
 						<!-- FEATURED MOVIES ROW 3 -->
 						<div class="library-featured">
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="assets/images/c6.jpg" alt="Movie cover">
+										<img src="assets/images/h1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -765,7 +766,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h2.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -777,7 +778,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h3.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -789,7 +790,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h4.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -801,7 +802,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h5.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -813,7 +814,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/h6.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -828,7 +829,7 @@
 							<!-- THUMBNAIL 1 -->
 							<div class="library-featured-col">
 									<div class="library-container">
-										<img src="assets/images/c6.jpg" alt="Movie cover">
+										<img src="assets/images/n1.jpg" alt="Movie cover">
 										<div class="caption">
 											<h4>Movie title</h4>
 											<p>
@@ -840,7 +841,7 @@
 							<!-- THUMBNAIL 2 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n2.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -852,7 +853,7 @@
 							<!-- THUMBNAIL 3 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n3.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -864,7 +865,7 @@
 							<!-- THUMBNAIL 4 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n4.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -876,7 +877,7 @@
 							<!-- THUMBNAIL 5 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n5.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -888,7 +889,7 @@
 							<!-- THUMBNAIL 6 -->
 							<div class="library-featured-col">
 								<div class="library-container">
-									<img src="assets/images/c6.jpg" alt="Movie cover">
+									<img src="assets/images/n6.jpg" alt="Movie cover">
 									<div class="caption">
 										<h4>Movie title</h4>
 										<p>
@@ -901,7 +902,7 @@
 					</div>
 					<ul class="more-movies">
 						<li class="more-movies">
-							<a href="#" class="show-more" data-more="#more-featured-series"><span>PLUS</span> DE SERIES</a>
+							<a class="show-more" id="showMoreSeries" data-more="#more-featured-series"><span>PLUS</span> DE SERIES</a>
 						</li>
 					</ul>
 				</div>
@@ -922,6 +923,13 @@
 
                                 </div>
                             </section>
+
+                            <div id="shop_content">
+                              <div class="vid">
+                                <iframe src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe>
+                              </div>
+                              <div class="description"></div>
+                            </div>
 
                         </div>
                     </div>
@@ -1051,7 +1059,7 @@
          document.getElementById("return").className = (window.pageYOffset > 100) ? "visible" : "invisible";
          //cibler la classe de l'élément "return"
          //interchanger la classe selon la position dans la page,
-         //visible dès qu'elle est à plus de 100 pixels du haut
+         //visible dès qu'elle est à   100 pixels du haut
          //opacity:0 étant invisible et opacity:1 visible
        };
      });
@@ -1071,5 +1079,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   <script src="http://cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js"></script>
   <script src="assets/js/script.js"></script>
+
   </body>
 </html>
