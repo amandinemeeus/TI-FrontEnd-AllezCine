@@ -602,7 +602,7 @@ margin-top: -28px;
 text-align: center;
 padding-top: 10px;
 }
-
+.linked{color:white}
 
 /* Contact */
 
@@ -793,5 +793,5 @@ width: 50%;
 }
 .my_black_button {
     margin-left: 808px;
-    margin-bottom: 20px;    
+    margin-bottom: 20px;
 }

@@ -15,7 +15,7 @@
       <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
       <!-- CSS -->
       <link rel="stylesheet" href="./assets/css/reset.css"/>
-      <link rel="stylesheet" href="./assets/css/styles.css"/>
+      <link rel="stylesheet" href="./assets/css/style.css"/>
       <link href="./assets/css/age-verification.css" rel="stylesheet">
       <!-- Slide Plugin -->
       <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
@@ -54,9 +54,9 @@
                                   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
 
                                   <!-- Modal Content -->
-                                  <form class="modal-content animate" action="/action_page.php">
+                                  <form class="modal-content animate">
                                       <div class="imgcontainer">
-                                          <img src="assets/images/woman.svg" alt="Avatar" class="avatar">
+                                          <img src="assets/images/1.jpg" alt="Avatar">
                                       </div>
 
                                       <div class="container">
