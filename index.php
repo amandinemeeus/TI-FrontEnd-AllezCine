@@ -961,7 +961,7 @@
                                       <br />
                                       <div class="row">
                                            <div class="col-md-3">
-                                               <p class="abstract_title">Kind :</p>
+                                               <p class="abstract_title">Genre :</p>
                                             </div>
                                             <div class="col-md-9">
                                                 <p class="abstract_description">Animation.</p>
