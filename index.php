@@ -171,10 +171,10 @@
   <div class="media">
       <nav class="networks">
           <ul>
-              <li class="twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
-              <li class="facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
-              <li class="dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
-              <li class="gplus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
+              <li class="twitter"><a href="https://twitter.com/?lang=fr" target="_blank">Twitter <i class="fa fa-twitter"></i></a></li>
+              <li class="facebook"><a href="https://www.facebook.com" target="_blank">Facebook <i class="fa fa-facebook"></i></a></li>
+              <li class="dribbble"><a href="https://dribbble.com" target="_blank">Dribbble <i class="fa fa-dribbble"></i></a></li>
+              <li class="gplus"><a href="https://plus.google.com/discover?hl=fr" target="_blank">Google+ <i class="fa fa-google-plus"></i></a></li>
           </ul>
     </nav>
   </div>
@@ -1058,9 +1058,9 @@
                                             <div class="circle"><i class="fa fa-user" aria-hidden="true"></i></div>
                                               <h2 class="bbox">Social networks</h2>
                                               <br />
-                                              <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte"><a class="linked" href="https://www.facebook.com">Facebook</a></p></div><br>
-                                              <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte"><a class="linked" href="https://twitter.com/?lang=fr">Twitter</a></p></div><br>
-                                              <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte"><a class="linked" href="https://plus.google.com/discover?hl=fr">Google</a></p></div><br>
+                                              <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte"><a class="linked" href="https://www.facebook.com" target="_blank">Facebook</a></p></div><br>
+                                              <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte"><a class="linked" href="https://twitter.com/?lang=fr" target="_blank">Twitter</a></p></div><br>
+                                              <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte"><a class="linked" href="https://plus.google.com/discover?hl=fr" target="_blank">Google</a></p></div><br>
                                         </div>
                                     </div>
                                 </div>
