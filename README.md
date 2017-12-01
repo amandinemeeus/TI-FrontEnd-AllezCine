@@ -14,4 +14,4 @@ Structure html/css/script, cookie bar avertissement, header, slide, section shop
 Merci à Daniel de Vos pour sa précieuse aide (slide, bootstrap).
 
 
-Merci à Tan qui est un super binôme.
+Merci à Tan qui est un super binôme. 
