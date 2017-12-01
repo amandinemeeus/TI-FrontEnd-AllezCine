@@ -1,5 +1,4 @@
-
-    <!doctype html>
+<!Doctype html>
   <html lang="fr">
     <head>
       <title>AllezCine</title>
@@ -195,10 +194,10 @@
   								<div class="library-container">
   									<img src="assets/images/c1.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Moana</h4>
   										<p>
-  											<span class="year">Year</span>
-  											<span class="genre">Genre</span>
+  											<span class="year">2016</span>
+  											<span class="genre">Animation</span>
   										</p>
   									</div>
   								</div>
@@ -208,10 +207,10 @@
   							<div class="library-container">
   								<img src="assets/images/c2.jpg" alt="Movie cover">
   								<div class="caption">
-  									<h4>Movie title</h4>
+  									<h4>Dirty Grandpa</h4>
   									<p>
-  										<span class="year">Year</span>
-  										<span class="genre">Genre</span>
+  										<span class="year">2016</span>
+  										<span class="genre">Comedie</span>
   									</p>
   								</div>
   							</div>
@@ -221,10 +220,10 @@
   							<div class="library-container">
   								<img src="assets/images/c3.jpg" alt="Movie cover">
   								<div class="caption">
-  									<h4>Movie title</h4>
+  									<h4>Ride Along 2</h4>
   									<p>
-  										<span class="year">Year</span>
-  										<span class="genre">Genre</span>
+  										<span class="year">2016</span>
+  										<span class="genre">Action</span>
   									</p>
   								</div>
   							</div>
@@ -234,10 +233,10 @@
   							<div class="library-container">
   								<img src="assets/images/c4.jpg" alt="Movie cover">
   								<div class="caption">
-  									<h4>Movie title</h4>
+  									<h4>The Boss</h4>
   									<p>
-  										<span class="year">Year</span>
-  										<span class="genre">Genre</span>
+  										<span class="year">2016</span>
+  										<span class="genre">Comedie</span>
   									</p>
   								</div>
   							</div>
@@ -247,10 +246,10 @@
   							<div class="library-container">
   								<img src="assets/images/c5.jpg" alt="Movie cover">
   								<div class="caption">
-  									<h4>Movie title</h4>
+  									<h4>Keanu</h4>
   									<p>
-  										<span class="year">Year</span>
-  										<span class="genre">Genre</span>
+  										<span class="year">2016</span>
+  										<span class="genre">Comedie</span>
   									</p>
   								</div>
   							</div>
@@ -279,9 +278,9 @@
   									<div class="library-container">
   										<img src="assets/images/c1.jpg" alt="Movie cover">
   										<div class="caption">
-  											<h4>Movie title</h4>
+  											<h4>Moana</h4>
   											<p>
-  												<span class="year">Year</span>
+  												<span class="year">2016</span>
   											</p>
   										</div>
   									</div>
@@ -291,9 +290,9 @@
   								<div class="library-container">
   									<img src="assets/images/c2.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Dirty Grandpa</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -303,9 +302,9 @@
   								<div class="library-container">
   									<img src="assets/images/c3.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Ride Along 2</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -315,9 +314,9 @@
   								<div class="library-container">
   									<img src="assets/images/c4.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>The Boss</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -327,9 +326,9 @@
   								<div class="library-container">
   									<img src="assets/images/c5.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Keanu</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -339,9 +338,9 @@
   								<div class="library-container">
   									<img src="assets/images/n1.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Ben-Hur</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -354,9 +353,9 @@
   								<div class="library-container">
   									<img src="assets/images/c7.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Mike Dave</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -366,9 +365,9 @@
   								<div class="library-container">
   									<img src="assets/images/c8.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Bad Moms</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -378,9 +377,9 @@
   								<div class="library-container">
   									<img src="assets/images/c9.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Barber Shop</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -390,9 +389,9 @@
   								<div class="library-container">
   									<img src="assets/images/c10.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Nine Lives</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -402,9 +401,9 @@
   								<div class="library-container">
   									<img src="assets/images/c11.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Billy Lynn</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -414,9 +413,9 @@
   								<div class="library-container">
   									<img src="assets/images/c12.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>War on Everyone</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -431,9 +430,9 @@
   									<div class="library-container">
   										<img src="assets/images/h1.jpg" alt="Movie cover">
   										<div class="caption">
-  											<h4>Movie title</h4>
+  											<h4>Before I wake</h4>
   											<p>
-  												<span class="year">Year</span>
+  												<span class="year">2016</span>
   											</p>
   										</div>
   									</div>
@@ -443,9 +442,9 @@
   								<div class="library-container">
   									<img src="assets/images/h2.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Don't Breathe</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -455,9 +454,9 @@
   								<div class="library-container">
   									<img src="assets/images/h3.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>The Shallows</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -467,9 +466,9 @@
   								<div class="library-container">
   									<img src="assets/images/h4.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Hush</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -479,9 +478,9 @@
   								<div class="library-container">
   									<img src="assets/images/h5.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Tell Me How I Die</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -491,9 +490,9 @@
   								<div class="library-container">
   									<img src="assets/images/h6.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>The Veil</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -502,13 +501,13 @@
   						<!-- FEATURED MOVIES ROW 4 -->
   						<div class="library-featured">
   							<!-- THUMBNAIL 1 -->
-  							<div class="library-featured-col">
+                <div class="library-featured-col">
   								<div class="library-container">
   									<img src="assets/images/n1.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Ben-Hur</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -518,9 +517,9 @@
   								<div class="library-container">
   									<img src="assets/images/n2.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Southside with you</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -530,9 +529,9 @@
   								<div class="library-container">
   									<img src="assets/images/n3.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Ignacio</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -542,9 +541,9 @@
   								<div class="library-container">
   									<img src="assets/images/n4.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Morgan</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -556,7 +555,7 @@
   									<div class="caption">
   										<h4>Movie title</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -566,9 +565,9 @@
   								<div class="library-container">
   									<img src="assets/images/n6.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Pets</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -604,9 +603,9 @@
   									<div class="library-container">
   										<img src="assets/images/m1.jpg" alt="Movie cover">
   										<div class="caption">
-  											<h4>Movie title</h4>
+  											<h4>War Dogs</h4>
   											<p>
-  												<span class="year">Year</span>
+  												<span class="year">2016</span>
   											</p>
   										</div>
   									</div>
@@ -616,9 +615,9 @@
   								<div class="library-container">
   									<img src="assets/images/m2.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Bad Moms</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -628,9 +627,9 @@
   								<div class="library-container">
   									<img src="assets/images/m3.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Tarzan</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -640,9 +639,9 @@
   								<div class="library-container">
   									<img src="assets/images/m4.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Ben-Hur</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -652,9 +651,9 @@
   								<div class="library-container">
   									<img src="assets/images/m5.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Jason Bourne</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -664,9 +663,9 @@
   								<div class="library-container">
   									<img src="assets/images/m6.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Mechanic</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -679,9 +678,9 @@
   									<div class="library-container">
   										<img src="assets/images/m7.jpg" alt="Movie cover">
   										<div class="caption">
-  											<h4>Movie title</h4>
+  											<h4>Light between The Oceans</h4>
   											<p>
-  												<span class="year">Year</span>
+  												<span class="year">2016</span>
   											</p>
   										</div>
   									</div>
@@ -691,9 +690,9 @@
   								<div class="library-container">
   									<img src="assets/images/m8.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>BFG</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -703,9 +702,9 @@
   								<div class="library-container">
   									<img src="assets/images/m9.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Central Intelligence<</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -715,9 +714,9 @@
   								<div class="library-container">
   									<img src="assets/images/m10.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Don't Think Twice</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -727,9 +726,9 @@
   								<div class="library-container">
   									<img src="assets/images/m11.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>X-Men</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -739,9 +738,9 @@
   								<div class="library-container">
   									<img src="assets/images/m12.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Greater</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -757,9 +756,9 @@
   									<div class="library-container">
   										<img src="assets/images/h1.jpg" alt="Movie cover">
   										<div class="caption">
-  											<h4>Movie title</h4>
+  											<h4>Before I Wake</h4>
   											<p>
-  												<span class="year">Year</span>
+  												<span class="year">2016</span>
   											</p>
   										</div>
   									</div>
@@ -769,9 +768,9 @@
   								<div class="library-container">
   									<img src="assets/images/h2.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Don't Breathe</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -781,9 +780,9 @@
   								<div class="library-container">
   									<img src="assets/images/h3.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>The Shallows</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -793,9 +792,9 @@
   								<div class="library-container">
   									<img src="assets/images/h4.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Hush</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -805,9 +804,9 @@
   								<div class="library-container">
   									<img src="assets/images/h5.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Tell Me How I Die</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -817,9 +816,9 @@
   								<div class="library-container">
   									<img src="assets/images/h6.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>The Veil</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -832,9 +831,9 @@
   									<div class="library-container">
   										<img src="assets/images/n1.jpg" alt="Movie cover">
   										<div class="caption">
-  											<h4>Movie title</h4>
+  											<h4>Ben-Hur</h4>
   											<p>
-  												<span class="year">Year</span>
+  												<span class="year">2016</span>
   											</p>
   										</div>
   									</div>
@@ -844,9 +843,9 @@
   								<div class="library-container">
   									<img src="assets/images/n2.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Southside with You</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -856,9 +855,9 @@
   								<div class="library-container">
   									<img src="assets/images/n3.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Ignacio</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -868,9 +867,9 @@
   								<div class="library-container">
   									<img src="assets/images/n4.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Morgan</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -880,9 +879,9 @@
   								<div class="library-container">
   									<img src="assets/images/n5.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>???</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -892,9 +891,9 @@
   								<div class="library-container">
   									<img src="assets/images/n6.jpg" alt="Movie cover">
   									<div class="caption">
-  										<h4>Movie title</h4>
+  										<h4>Pets</h4>
   										<p>
-  											<span class="year">Year</span>
+  											<span class="year">2016</span>
   										</p>
   									</div>
   								</div>
@@ -913,150 +912,150 @@
             <!-- Content Header End -->
 
 
-                    <!-- Content Content-inner Start -->
-                    <div id="ancre_shop" class="centered content-inner">
-                    <div class="content" id="">
-                    <section id="">
-                    <div class="container">
+            <!-- Content Content-inner Start -->
+            <div id="ancre_shop" class="centered content-inner">
+            <div class="content" id="">
+            <section id="">
+            <div class="container">
 
-                                <!-- TITLE -->
-                                <h2 class="title_ancre">SHOP MOVIES</h2>
-                                <!-- BOUTONS NOIRS -->
-                                <div class="my_black_button">
-                                    <a id="add" href="#title_ancre" class="btn btn black_button btn-lg">
-                                        <i class="fa fa-chevron-left" aria-hidden="true"></i>
-                                    </a>
-                                    <a id="close" href="#title_ancre" class="btn btn black_button btn-lg">
-                                        <i class="fa fa-chevron-right" aria-hidden="true"></i>
-                                    </a>
+                        <!-- TITLE -->
+                        <h2 class="title_ancre">SHOP MOVIES</h2>
+                        <!-- BOUTONS NOIRS -->
+                        <div class="my_black_button">
+                            <a id="add" href="#title_ancre" class="btn btn black_button btn-lg">
+                                <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            </a>
+                            <a id="close" href="#title_ancre" class="btn btn black_button btn-lg">
+                                <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            </a>
+                        </div>
+
+                            <div id="shop_content">
+                                <div class="vid">
+                                    <iframe width="450" height="315" src="https://www.youtube.com/embed/NAKtN6lT5O0" frameborder="0" allowfullscreen></iframe>
                                 </div>
-
-                                    <div id="shop_content">
-                                        <div class="vid">
-                                            <iframe width="450" height="315" src="https://www.youtube.com/embed/NAKtN6lT5O0" frameborder="0" allowfullscreen></iframe>
-                                        </div>
-                                        <div class="description">
-                                            <h2 class="myabstractsupertitle">Ice Age: Continental Drift</h2>
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-md-3">
-                                                         <p class="abstract_title">Abstract :</p>
-                                                    </div>
-                                                    <div class="col-md-9">
-                                                         <p class="abstract_description">In deze vierde film gaan Manny (Ray Romano), Sid (John Leguizamo) en Diego (Denis Leary) op een nieuw avontuur nadat hun continent losbreekt. Ze gebruiken een ijsberg als schip en moeten het opnemen tegen nieuwe zeemonsters en piraten terwijl ze terug proberen te komen bij hun vrienden.</p>
-                                                    </div>
-                                                </div>
-                                                <br />
-                                                <div class="row">
-                                                    <div class="col-md-3">
-                                                        <p class="abstract_title">Release :</p>
-                                                    </div>
-                                                    <div class="col-md-9">
-                                                        <p class="abstract_description">2017</p>
-                                                    </div>
-                                                </div>
-                                                <br />
-                                                <div class="row">
-                                                    <div class="col-md-3">
-                                                       <p class="abstract_title">Kind :</p>
-                                                    </div>
-                                                    <div class="col-md-9">
-                                                        <p class="abstract_description">Animation.</p>
-                                                    </div>
-                                                </div>
+                                <div class="description">
+                                    <h2 class="myabstractsupertitle">Ice Age: Continental Drift</h2>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                 <p class="abstract_title">Abstract :</p>
+                                            </div>
+                                            <div class="col-md-9">
+                                                 <p class="abstract_description">In deze vierde film gaan Manny (Ray Romano), Sid (John Leguizamo) en Diego (Denis Leary) op een nieuw avontuur nadat hun continent losbreekt. Ze gebruiken een ijsberg als schip en moeten het opnemen tegen nieuwe zeemonsters en piraten terwijl ze terug proberen te komen bij hun vrienden.</p>
                                             </div>
                                         </div>
-                                    </div>
-                                    <!--First container start-->
-                                    <div class="first-container" id="contenu1" style="display:flex">
-                                    <!-- SHOP MOVIES -->
-                                    <div class="library-featured">
-                                        <!-- THUMBNAIL 1 -->
-                                        <div class="library-featured-col-shop">
-                                                <div class="library-container">
-                                                    <img src="assets/images/m1.jpg" alt="Movie cover">
-                                                </div>
-                                        </div>
-                                        <!-- THUMBNAIL 2 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/m2.jpg" alt="Movie cover">
+                                        <br />
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <p class="abstract_title">Release :</p>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <p class="abstract_description">2017</p>
                                             </div>
                                         </div>
-                                        <!-- THUMBNAIL 3 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/m3.jpg" alt="Movie cover">
+                                        <br />
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                               <p class="abstract_title">Kind :</p>
                                             </div>
-                                        </div>
-                                        <!-- THUMBNAIL 4 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/m4.jpg" alt="Movie cover">
-                                            </div>
-                                        </div>
-                                        <!-- THUMBNAIL 5 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/m5.jpg" alt="Movie cover">
-                                            </div>
-                                        </div>
-                                        <!-- THUMBNAIL 6 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/m6.jpg" alt="Movie cover">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <!-- First container end -->
-                                <!--Next container start-->
-                                <div class="next-container" id="contenu2" style="display:none">
-                                    <!-- SHOP MOVIES -->
-                                    <div class="library-featured">
-                                        <!-- THUMBNAIL 1 -->
-                                        <div class="library-featured-col-shop">
-                                                <div class="library-container">
-                                                    <img src="assets/images/c1.jpg" alt="Movie cover">
-                                                </div>
-                                        </div>
-                                        <!-- THUMBNAIL 2 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/c2.jpg" alt="Movie cover">
-                                            </div>
-                                        </div>
-                                        <!-- THUMBNAIL 3 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/c3.jpg" alt="Movie cover">
-                                            </div>
-                                        </div>
-                                        <!-- THUMBNAIL 4 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/c4.jpg" alt="Movie cover">
-                                            </div>
-                                        </div>
-                                        <!-- THUMBNAIL 5 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/c5.jpg" alt="Movie cover">
-                                            </div>
-                                        </div>
-                                        <!-- THUMBNAIL 6 -->
-                                        <div class="library-featured-col-shop">
-                                            <div class="library-container">
-                                                <img src="assets/images/c6.jpg" alt="Movie cover">
+                                            <div class="col-md-9">
+                                                <p class="abstract_description">Animation.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                    </div>
-                    </section>
-                    </div>
-                    </div>
+                            </div>
+                            <!--First container start-->
+                            <div class="first-container" id="contenu1" style="display:flex">
+                            <!-- SHOP MOVIES -->
+                            <div class="library-featured">
+                                <!-- THUMBNAIL 1 -->
+                                <div class="library-featured-col-shop">
+                                        <div class="library-container">
+                                            <img src="assets/images/m1.jpg" alt="Movie cover">
+                                        </div>
+                                </div>
+                                <!-- THUMBNAIL 2 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m2.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 3 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m3.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 4 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m4.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 5 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m5.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 6 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m6.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- First container end -->
+                        <!--Next container start-->
+                        <div class="next-container" id="contenu2" style="display:none">
+                            <!-- SHOP MOVIES -->
+                            <div class="library-featured">
+                                <!-- THUMBNAIL 1 -->
+                                <div class="library-featured-col-shop">
+                                        <div class="library-container">
+                                            <img src="assets/images/c1.jpg" alt="Movie cover">
+                                        </div>
+                                </div>
+                                <!-- THUMBNAIL 2 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/c2.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 3 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/c3.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 4 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/c4.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 5 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/c5.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 6 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/c6.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+            </div>
+            </section>
+            </div>
+            </div>
 
 <script>//AFFICHER_MASQUER
 
@@ -1086,7 +1085,7 @@ var x = true;
 rajouter.addEventListener('click',changeContenu);</script>
 
 
-                    <!-- Content Content-inner End -->
+            <!-- Content Content-inner End -->
 
             <!-- Content Content-inner Start -->
 			<div id="ancre_contact" class="centered content-inner">
@@ -1125,9 +1124,9 @@ rajouter.addEventListener('click',changeContenu);</script>
                                             <div class="circle"><i class="fa fa-user" aria-hidden="true"></i></div>
                                               <h2 class="bbox">Social networks</h2>
                                               <br />
-                                              <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte"><a class="linked" href="https://www.facebook.com" target="_blank">Facebook</a></p></div><br>
-                                              <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte"><a class="linked" href="https://twitter.com/?lang=fr" target="_blank">Twitter</a></p></div><br>
-                                              <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte"><a class="linked" href="https://plus.google.com/discover?hl=fr" target="_blank">Google</a></p></div><br>
+                                              <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte"><a class="linked" href="https://www.facebook.com">Facebook</a></p></div><br>
+                                              <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte"><a class="linked" href="https://twitter.com/?lang=fr">Twitter</a></p></div><br>
+                                              <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte"><a class="linked" href="https://plus.google.com/discover?hl=fr">Google</a></p></div><br>
                                         </div>
                                     </div>
                                 </div>
