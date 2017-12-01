@@ -54,7 +54,7 @@
                                   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
 
                                   <!-- Modal Content -->
-                                  <form class="modal-content animate">
+                                  <form class="modal-content animate" action="/action_page.php">
                                       <div class="imgcontainer">
                                           <img src="assets/images/1.jpg" alt="Avatar">
                                       </div>
