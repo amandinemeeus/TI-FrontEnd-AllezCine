@@ -20,7 +20,28 @@
       <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
       <script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
       <script type="text/javascript" src="assets/js/jquery.dotdotdot.min.js"></script>
-
+<!-- COOKIES  -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#ff8d1b",
+      "text": "#000000"
+    },
+    "button": {
+      "background": "#000000",
+      "text": "#ffffff"
+    }
+  },
+  "position": "top",
+  "content": {
+    "message": "This website uses cookies to ensure you get the good vibes that we will transmise you :-)"
+  }
+})});
+</script>
     </head>
 
     <body id="fr">
