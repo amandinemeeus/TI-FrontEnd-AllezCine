@@ -15,7 +15,7 @@
       <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
       <!-- CSS -->
       <link rel="stylesheet" href="./assets/css/reset.css"/>
-      <link rel="stylesheet" href="./assets/css/style.css"/>
+      <link rel="stylesheet" href="./assets/css/styles.css"/>
       <link href="./assets/css/age-verification.css" rel="stylesheet">
       <!-- Slide Plugin -->
       <link rel="stylesheet" href="./assets/css/jquery.slideye.min.css"/>
@@ -54,9 +54,9 @@
                                   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
 
                                   <!-- Modal Content -->
-                                  <form class="modal-content animate"> <!-- action="/action_page.php"-->
+                                  <form class="modal-content animate" action="/action_page.php">
                                       <div class="imgcontainer">
-                                          <img src="assets/images/1.jpg" alt="Avatar">
+                                          <img src="assets/images/woman.svg" alt="Avatar" class="avatar">
                                       </div>
 
                                       <div class="container">
@@ -919,99 +919,99 @@
                     <section id="">
 
                         <div class="container">
-                            <!-- TITLE -->
-                            <h2 class="title_ancre">SHOP MOVIES</h2>
-                            <!-- BOUTONS NOIRS -->
-                            <div class="my_black_button">
-                                <a href="#" class="btn btn black_button btn-lg">
-                                    <i  class="fa fa-chevron-left" aria-hidden="true"></i>
-                                </a>
-                                <a href="#" class="btn btn black_button btn-lg">
-                                    <i class="fa fa-chevron-right" aria-hidden="true"></i>
-                                </a>
-                            </div>
+                                <!-- TITLE -->
+                                <h2 class="title_ancre">SHOP MOVIES</h2>
+                                <!-- BOUTONS NOIRS -->
+                                <div class="my_black_button">
+                                    <a href="#" class="btn btn black_button btn-lg">
+                                        <i  class="fa fa-chevron-left" aria-hidden="true"></i>
+                                    </a>
+                                    <a href="#" class="btn btn black_button btn-lg">
+                                        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                                    </a>
+                                </div>
 
-                        <div id="shop_content">
-                          <div class="vid">
-                            <iframe width="480" height="315" src="https://www.youtube.com/embed/NAKtN6lT5O0" frameborder="0" allowfullscreen></iframe>
-                          </div>
-                          <div class="description">
-                                  <h2 class="myabstractsupertitle">
-                                  Ice Age: Continental Drift
-                                  </h2>
+                            <div id="shop_content">
+                              <div class="vid">
+                                <iframe width="480" height="315" src="https://www.youtube.com/embed/NAKtN6lT5O0" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                              <div class="description">
+                                      <h2 class="myabstractsupertitle">
+                                      Ice Age: Continental Drift
+                                      </h2>
 
-                                  <div class="container">
-                                      <div class="row">
-                                          <div class="col-md-3">
-                                              <p class="abstract_title">Abstract :</p>
+                                      <div class="container">
+                                          <div class="row">
+                                              <div class="col-md-3">
+                                                  <p class="abstract_title">Abstract :</p>
+                                              </div>
+                                              <div class="col-md-9">
+                                                  <p class="abstract_description">In deze vierde film gaan Manny (Ray Romano), Sid (John Leguizamo) en Diego (Denis Leary) op een nieuw avontuur nadat hun continent losbreekt. Ze gebruiken een ijsberg als schip en moeten het opnemen tegen nieuwe zeemonsters en piraten terwijl ze terug proberen te komen bij hun vrienden.</p>
+                                              </div>
                                           </div>
-                                          <div class="col-md-9">
-                                              <p class="abstract_description">In deze vierde film gaan Manny (Ray Romano), Sid (John Leguizamo) en Diego (Denis Leary) op een nieuw avontuur nadat hun continent losbreekt. Ze gebruiken een ijsberg als schip en moeten het opnemen tegen nieuwe zeemonsters en piraten terwijl ze terug proberen te komen bij hun vrienden.</p>
+                                          <br />
+                                          <div class="row">
+                                              <div class="col-md-3">
+                                                  <p class="abstract_title">Release :</p>
+                                              </div>
+                                              <div class="col-md-9">
+                                                  <p class="abstract_description">2017</p>
+                                              </div>
                                           </div>
-                                      </div>
-                                      <br />
-                                      <div class="row">
-                                          <div class="col-md-3">
-                                              <p class="abstract_title">Release :</p>
+                                          <br />
+                                          <div class="row">
+                                               <div class="col-md-3">
+                                                   <p class="abstract_title">Kind :</p>
+                                                </div>
+                                                <div class="col-md-9">
+                                                    <p class="abstract_description">Animation.</p>
+                                                </div>
                                           </div>
-                                          <div class="col-md-9">
-                                              <p class="abstract_description">2017</p>
-                                          </div>
-                                      </div>
-                                      <br />
-                                      <div class="row">
-                                           <div class="col-md-3">
-                                               <p class="abstract_title">Genre :</p>
-                                            </div>
-                                            <div class="col-md-9">
-                                                <p class="abstract_description">Animation.</p>
-                                            </div>
-                                      </div>
+                                     </div>
                                  </div>
-                             </div>
-                        </div>
+                            </div>
 
-                        <!-- SHOP MOVIES -->
-                        <div class="library-featured">
-                            <!-- THUMBNAIL 1 -->
-                            <div class="library-featured-col-shop">
+                            <!-- SHOP MOVIES -->
+                            <div class="library-featured">
+                                <!-- THUMBNAIL 1 -->
+                                <div class="library-featured-col-shop">
+                                        <div class="library-container">
+                                            <img src="assets/images/m1.jpg" alt="Movie cover">
+                                        </div>
+                                </div>
+                                <!-- THUMBNAIL 2 -->
+                                <div class="library-featured-col-shop">
                                     <div class="library-container">
-                                        <img src="assets/images/m1.jpg" alt="Movie cover">
+                                        <img src="assets/images/m2.jpg" alt="Movie cover">
                                     </div>
-                            </div>
-                            <!-- THUMBNAIL 2 -->
-                            <div class="library-featured-col-shop">
-                                <div class="library-container">
-                                    <img src="assets/images/m2.jpg" alt="Movie cover">
+                                </div>
+                                <!-- THUMBNAIL 3 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m3.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 4 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m4.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 5 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m5.jpg" alt="Movie cover">
+                                    </div>
+                                </div>
+                                <!-- THUMBNAIL 6 -->
+                                <div class="library-featured-col-shop">
+                                    <div class="library-container">
+                                        <img src="assets/images/m6.jpg" alt="Movie cover">
+                                    </div>
                                 </div>
                             </div>
-                            <!-- THUMBNAIL 3 -->
-                            <div class="library-featured-col-shop">
-                                <div class="library-container">
-                                    <img src="assets/images/m3.jpg" alt="Movie cover">
-                                </div>
-                            </div>
-                            <!-- THUMBNAIL 4 -->
-                            <div class="library-featured-col-shop">
-                                <div class="library-container">
-                                    <img src="assets/images/m4.jpg" alt="Movie cover">
-                                </div>
-                            </div>
-                            <!-- THUMBNAIL 5 -->
-                            <div class="library-featured-col-shop">
-                                <div class="library-container">
-                                    <img src="assets/images/m5.jpg" alt="Movie cover">
-                                </div>
-                            </div>
-                            <!-- THUMBNAIL 6 -->
-                            <div class="library-featured-col-shop">
-                                <div class="library-container">
-                                    <img src="assets/images/m6.jpg" alt="Movie cover">
-                                </div>
-                            </div>
-                        </div>
 
-                    </div>
+                        </div>
                     </section>
                     </div>
                     </div>
@@ -1058,9 +1058,9 @@
                                             <div class="circle"><i class="fa fa-user" aria-hidden="true"></i></div>
                                               <h2 class="bbox">Social networks</h2>
                                               <br />
-                                                <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte"><a class="linked" href="https://www.facebook.com">Facebook</a></p></div><br>
-                                                <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte"><a class="linked" href="https://twitter.com/?lang=fr">Twitter</a></p></div><br>
-                                                <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte"><a class="linked" href="https://plus.google.com/discover?hl=fr">Google</a></p></div><br>
+                                              <div class="myfacebook"><i id="myfacebookimage" class="fa fa-facebook" aria-hidden="true"></i><p class="myfacebooktexte"><a class="linked" href="https://www.facebook.com">Facebook</a></p></div><br>
+                                              <div class="mytwitter"><i id="mytwitterimage" class="fa fa-twitter" aria-hidden="true"></i><p class="mytwittertexte"><a class="linked" href="https://twitter.com/?lang=fr">Twitter</a></p></div><br>
+                                              <div class="mygoogle"><i id="mygoogleimage" class="fa fa-google-plus" aria-hidden="true"></i><p class="mygoogletexte"><a class="linked" href="https://plus.google.com/discover?hl=fr">Google</a></p></div><br>
                                         </div>
                                     </div>
                                 </div>
