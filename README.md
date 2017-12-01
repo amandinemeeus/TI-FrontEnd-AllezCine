@@ -4,7 +4,10 @@
 
 
 Travail en binôme réalisé par Tan Phan et Amandine Meeus dans le cadre de la formation BeCode. 
+
+**********************************************************************
 Structure html/css/script, cookie, login, sections films et séries --> Tan
+
 Structure html/css/script, header, slide, shop movies, contact, formulaire, footer, boutons réseaux sociaux, cookie bar, bouton js, ancres, flèche --> Amandine
 
 
